@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Sat, 28 Nov 2026 04:43:02 +0000
+MD5Sum:
+ 062e86735f4ef98c9c9b331fc4c10208            73655 Packages
+ 33d8a8de40039126bdae9f1f0e780ae2            27939 Packages.gz
+ 5d0bf8037c3574e99128acc715e4c4d5               38 Release
+SHA1:
+ 05d004add8c265b98b9dfe093fb6b0f5616fc763            73655 Packages
+ 7a1b1f969785cf35efa452dec86c6c85e4b62a36            27939 Packages.gz
+ 0ab9bb7eafe07b45f86b25666f678bf714b647b8               38 Release
+SHA256:
+ 5cee64c89a9301ccd647b43081491761ed553760b0b199c6c20b3ceba684d19c            73655 Packages
+ d954c3714e8d1c10e7566ab52437fc91ad58de3a7112ab0dab9c836a615dabab            27939 Packages.gz
+ 39cf09bd6f6ba1ca5847bfbadb1793870e22f5d736b26e83ac555a699f6ddb52               38 Release
+SHA512:
+ aa850becd1ad08fc6fd4937a7cf7883a8e8087c2f416c19b76ae3df1ad6cb49e094a5b421067712f50e693dc2848b160888859e7b56fff63edea55e58d1682e7            73655 Packages
+ ae8958055bc188a0f06a155f43ab62ed3e51956adf0efde8e7a07eb76a042b20ef6e5bf3e1cee105211ce2653885c78ea1e0b1822a436cd1b28e929521b3f43e            27939 Packages.gz
+ 0683307bf0016d39095f4f920f93e15e394692f857dd66f1cb5a7efa41df45c59562331827d906b0eed6ffa961bf4633da993c120b3e185e282bb15d26de71fd               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRb7X2CkKwoPmvLIji2syklfJUftgUCawpb1gAKCRC2syklfJUf
+tjM9AP0YQEO3KadYYbDl6db8vAUCEli5/NMhNAS+IGdI4aM6SAD/dDvEQ5ElQaYA
+hZXNVjHhQte5oKPVLlMJ0AWln6+Peww=
+=mqMy
+-----END PGP SIGNATURE-----
