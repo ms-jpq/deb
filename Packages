@@ -1,0 +1,1952 @@
+Package: AdGuardHome
+Architecture: amd64
+Version: 0.107.79
+Maintainer: AdGuardHome
+Filename: AdGuardHome_amd64_0.107.79.deb
+Size: 8748930
+MD5sum: 3ef791bd74fd10d2df5654efa8cdb993
+SHA1: a329bb8c4c1057b0b0d582d4089dbeb8dbf182fe
+SHA256: 753c8e1328326a8f1601909df3c3b2c8e3fa61ddf329d5c820e96fc189059f0a
+SHA512: 1713a409f4e100de1461456d9aabd4870426e17757aa979c8213585af932d9723e809796214db57f6ba95bb0bd0b93ac4037a998d83cd7b5aaee9384902a60fd
+Description: AdGuardHome-amd64-0.107.79
+
+Package: AdGuardHome
+Architecture: arm64
+Version: 0.107.79
+Maintainer: AdGuardHome
+Filename: AdGuardHome_arm64_0.107.79.deb
+Size: 7806938
+MD5sum: 42091827bd34aa8d0096e4247857819b
+SHA1: bf38a807f9c29fd9200a9c83a0e98622e001ec75
+SHA256: 1ee2379ce5c9465ff3118e414da997d01a7d7184297fd4b9dfa8d6c7f4216464
+SHA512: b603160bb35ad8f076840d34d6f2280472bebc0190b37e790aa0f80de35bbe73d9f12881e1abc983117a78e79e8f9be18d9f5dd8db4bf95c1eacd1f0454943df
+Description: AdGuardHome-arm64-0.107.79
+
+Package: asdf
+Architecture: amd64
+Version: 0.20.2
+Maintainer: asdf
+Filename: asdf_amd64_0.20.2.deb
+Size: 1551716
+MD5sum: 3f83ba780f466b30c83130f1321c6c7b
+SHA1: 9040cc8cc743223132e3a80caf4570b2df7e2960
+SHA256: 46726b5c563e0dc74c8b4fa1672dfa9e7ac08fc36dda4a475c063217b9816a2d
+SHA512: 71d28b18343abdf27c30928f0700d084af5022ae5a4938d9dfb4c00db5dc5102702a33a4c5a830f3b78be8aca093109e15317436108df5a3336282cabb3e7228
+Description: asdf-amd64-0.20.2
+
+Package: asdf
+Architecture: arm64
+Version: 0.20.2
+Maintainer: asdf
+Filename: asdf_arm64_0.20.2.deb
+Size: 1378434
+MD5sum: 41b36d20c6a0c5885b5d26ac3869c80f
+SHA1: a541668fbf454566ac7180368b7e60bf31da53c0
+SHA256: 417cad313599d5ec49a189cf8beeaf5509eed3dd6d037c6f8f2beb4dbe7554ba
+SHA512: 25fb13ad7cbb54b3f2aed7ea4a8635fffe8e28a2f97a1401532053c04036ff0e6e6cf66236f36a3ddded413ecbc5a982be5cc3bdd6442766af49ac953249a90e
+Description: asdf-arm64-0.20.2
+
+Package: bottom
+Architecture: amd64
+Version: 0.14.9-1
+Priority: optional
+Section: utility
+Maintainer: Clement Tsang <cjhtsang@uwaterloo.ca>
+Installed-Size: 5040
+Depends: libc6 (>= 2.34)
+Conflicts: btm
+Filename: btm_amd64_0.14.9.deb
+Size: 1507360
+MD5sum: 299a67ff30b8994c0a9759741effd4e2
+SHA1: 52f652c176413b78c8d399cb46aefeac7b423d58
+SHA256: 9a07f2fa4b7c3e3cf09f9b89bcbc41daf006443b74e87f33ec19f5b03905dd5d
+SHA512: 3506e0876104037ee4b7d4d003888389a38cbfad079d79e77c1c3021c4ed01ec96de272f79992596c7e18d5c4b5bfed41d36bae51424372029c147bf48e31a9b
+Homepage: https://bottom.pages.dev/stable
+Description: A customizable cross-platform graphical process/system monitor for the
+ terminal. Supports Linux, macOS, and Windows.
+ .
+ By default, bottom will look for a config file in ~/.config/bottom/bottom.toml.
+ A config file can be specified using `-C`. If a config file does not exist at
+ the specified or default location, a default one will be created for the user
+ there.
+
+Package: bottom
+Architecture: arm64
+Version: 0.14.9-1
+Priority: optional
+Section: utility
+Maintainer: Clement Tsang <cjhtsang@uwaterloo.ca>
+Installed-Size: 4368
+Depends: libc6 (>= 2.34)
+Conflicts: btm
+Filename: btm_arm64_0.14.9.deb
+Size: 1293680
+MD5sum: 8be96bd0f3baf729ad8348aa83256781
+SHA1: 27ccd4fd2d3881086ad4143f1d0fa4a2e17ce470
+SHA256: 5df3df8d1ddcd04c0e66815851cc9576e4dec81fd94f73d1131023c47bead841
+SHA512: 2512a2c72c8357390bea4d30899989d1ef541c6310d3e83f6e26603d7a112faa914c67153a41d6c3c4530f641656d2fcb2b6a7447354ab0e1116c3cde0bc38dc
+Homepage: https://bottom.pages.dev/stable
+Description: A customizable cross-platform graphical process/system monitor for the
+ terminal. Supports Linux, macOS, and Windows.
+ .
+ By default, bottom will look for a config file in ~/.config/bottom/bottom.toml.
+ A config file can be specified using `-C`. If a config file does not exist at
+ the specified or default location, a default one will be created for the user
+ there.
+
+Package: claude-code
+Architecture: amd64
+Version: 2.1.288
+Maintainer: claude-code
+Filename: claude-code_amd64_2.1.288.deb
+Size: 86454564
+MD5sum: f43c92e296781529dbca61761de4caf8
+SHA1: 8ada731ede93f0e858b97149a442a2e28708418b
+SHA256: e0acf4ab32255810e537540bfa202bee4bc9e1785ffc20750ea8bd42bafa402d
+SHA512: dda815086f94cbe44be4f2029db98da898ab1e8509b142c69c5f0c9afad65d6b070f94187a8620ebf6c9cbca0481e61f29f97433e483323569e45c1a7993275d
+Description: claude-code-amd64-2.1.288
+
+Package: claude-code
+Architecture: arm64
+Version: 2.1.288
+Maintainer: claude-code
+Filename: claude-code_arm64_2.1.288.deb
+Size: 85737536
+MD5sum: 035c033fa050a2f99ceed6f47b88ecaa
+SHA1: 160ac81782435fb13a642fc47bc32bf60edc10f8
+SHA256: 6e28647ea397ea3062bafc9d5293f0a5814e5df3925afc474fbc29a51fcc020d
+SHA512: 0d5e87760ceff94c9f7474647d4436551cbebbff6ca80877d2af2b080a6fb54cb606969e5f750356de5aefc4f6d9f8de0682cb76d751642aec88a5543fe916dd
+Description: claude-code-arm64-2.1.288
+
+Package: codex-app-server
+Architecture: amd64
+Version: 0.160.0
+Maintainer: codex-app-server
+Filename: codex-app-server_amd64_0.160.0.deb
+Size: 59558762
+MD5sum: 399c32999ebcce9285a63ab0ccf9e4ab
+SHA1: de1dcc8210b2fbd529533e54478688d490c31d2e
+SHA256: 4d16a7bd385f6e98fbdc1dd13c6232d9a99193e12a87b9a2324cf8db12c8ee28
+SHA512: a17fb842defb5c7293d561feff29e94eefe2ff4623d3fdb6a828b53c69aa3df01e83dba56de0a0c8da86566184247e59ba4f700d10a0a5c2c38f3280172fc1f3
+Description: codex-app-server-amd64-0.160.0
+
+Package: codex-app-server
+Architecture: arm64
+Version: 0.160.0
+Maintainer: codex-app-server
+Filename: codex-app-server_arm64_0.160.0.deb
+Size: 56058414
+MD5sum: 1803d1cab5b65187f5ebddc36c63b501
+SHA1: 378b6b130e18f953a8aec3efa399181f473f0bbc
+SHA256: 562b8980d2ec76f30e65960d68db92d1fbaac4b07e59f9b3afa95810774331a6
+SHA512: 1e8c640f4f0734ee0a3c3f82a8c59bd7ff8bfd3dc738e532810e06808d2ac7203cd81c22dc016515e2e9f9dfcb3c9271c7fc929f18c59b7ca13fbd730bda6a2f
+Description: codex-app-server-arm64-0.160.0
+
+Package: codex-code-mode-host
+Architecture: amd64
+Version: 0.160.0
+Maintainer: codex-code-mode-host
+Filename: codex-code-mode-host_amd64_0.160.0.deb
+Size: 20583410
+MD5sum: 9d369c1dedae2bbfa3fb1cd3041a7074
+SHA1: 9712d741d973d697bc4542082c6ec448fc552684
+SHA256: e9b5bd6f553b4d1d2e502fff536c3a1f3c34bf0c96de994a8ed19348c8ee5988
+SHA512: bb234f92f67813fd1dbbe98cd79ac91148ffe7b1243d95558e620bacde6b13dd6d679ff98e15aa826155835c37939c4a84d1b15cf51befdc5ad6a9b49b145892
+Description: codex-code-mode-host-amd64-0.160.0
+
+Package: codex-code-mode-host
+Architecture: arm64
+Version: 0.160.0
+Maintainer: codex-code-mode-host
+Filename: codex-code-mode-host_arm64_0.160.0.deb
+Size: 19672148
+MD5sum: c8b0de813a04e9b76f14a3ba4167feb8
+SHA1: 046a545dab2ac5865fd692918f3367cc149411f7
+SHA256: 2517aaba0b4b652dec17b6a70f9beb19438a2550d769ac941637ccc09603835e
+SHA512: fe903eb498a9d979aec80cf4e3b8ae6361b89e2dd8ef6f712c7562d55a0f604355a698df985774ed52ff72e29a88944683067341aeeb542705d20f21ad03a695
+Description: codex-code-mode-host-arm64-0.160.0
+
+Package: codex-responses-api-proxy
+Architecture: amd64
+Version: 0.160.0
+Maintainer: codex-responses-api-proxy
+Filename: codex-responses-api-proxy_amd64_0.160.0.deb
+Size: 3960604
+MD5sum: 759a3f6e67dec2c2cb465a638c32d66f
+SHA1: 73d55c4af64e9ec5927dcff0b2b3b4247665b2eb
+SHA256: b218e7611b2541fdeb656d8b16ec4cc4bb22a7c81a503b02acb45417867debe1
+SHA512: f3f06d42e9a78742509e52b7d9ccee3acccf9341aed3c3611d36069c6924b530340a52448b20068e24aed60809d4a7a61a549b8fd6dd8ad4d08120b16bce0e3b
+Description: codex-responses-api-proxy-amd64-0.160.0
+
+Package: codex-responses-api-proxy
+Architecture: arm64
+Version: 0.160.0
+Maintainer: codex-responses-api-proxy
+Filename: codex-responses-api-proxy_arm64_0.160.0.deb
+Size: 4284310
+MD5sum: 6ecc44d6c79033dfef06d6bb00d7e5ba
+SHA1: c95613ed5716a50311a9a523ed28e229f1913b04
+SHA256: 5b83eda43c25bfc2dee327d06e14cd9c08a12afbe06bf40d9e5cf935d2e3fc63
+SHA512: d30cbaee4cda46dd02799ae3c1908c919e8bd332c6fca8e36af0393e6e37da7be4de2026933c1d79c47f6a57337b4f91c54fd2feba0e2029554055a77998b856
+Description: codex-responses-api-proxy-arm64-0.160.0
+
+Package: codex
+Architecture: amd64
+Version: 0.160.0
+Maintainer: codex
+Filename: codex_amd64_0.160.0.deb
+Size: 77996250
+MD5sum: 71b803daf8d7956608a6556ed4740191
+SHA1: 22108139daa1487c09abddf32ae927177f8429ee
+SHA256: c992979c67a8ad6d7895afabfbbd564812c5bf892f9ece0c667896dbd86069ef
+SHA512: 0d2cd58c920ccaee84987a67e2622e5307876c07e9e15d0c52aeb798af48a6c6d4c1b7a0271f08d9a4b640aef66420ec24e2795bbaea5c2fd906e4164ffb5bed
+Description: codex-amd64-0.160.0
+
+Package: codex
+Architecture: arm64
+Version: 0.160.0
+Maintainer: codex
+Filename: codex_arm64_0.160.0.deb
+Size: 73121064
+MD5sum: 7c1586eee5dc4b55767b888475bc346e
+SHA1: fd542962ea0adb68b0c93963ab9133aabed17078
+SHA256: 82f9c773ec7de0d4aebe134f9de13f9a33a0569944f7af87031c3330164e291e
+SHA512: d1b63ff047f3e2fff13a28cc229d8f9f9f02042751fbc87cc1a43b730a3236346a47842ae4e944515813d0c4e0df8a6660ff7045bb498da6177b9ca4231ef1b2
+Description: codex-arm64-0.160.0
+
+Package: diffnav
+Architecture: amd64
+Version: 0.12.0
+Maintainer: diffnav
+Filename: diffnav_amd64_0.12.0.deb
+Size: 2731690
+MD5sum: 309423ed9bd30819d5e4569b6f03083b
+SHA1: 2eed3b428726eed5042e4d08976b25c1b993fbf5
+SHA256: faf7c03cb82008141aba00bda00af8e3f9e73a7683cd66cd00717d083e4acffa
+SHA512: a1a8f0c612549cf22b02694508849740992e2207d6363638a6b23ee05b731280815058f12037610e84c2606c096f0187a56ea012d21c5fdf6e933a7989888bf0
+Description: diffnav-amd64-0.12.0
+
+Package: diffnav
+Architecture: arm64
+Version: 0.12.0
+Maintainer: diffnav
+Filename: diffnav_arm64_0.12.0.deb
+Size: 2431002
+MD5sum: 2a62f174bd85dde876974912b60513e9
+SHA1: a7ed4f6285c5edff88c7b55502495123329c58c2
+SHA256: 3500865d21804215089dd951dac02d8c32639ba4fe757ab0aa5849a25b25dbfd
+SHA512: e74c500b09bd2a75501bc4284f4bc8ac6727df190312d84617bbd5c675efd455f3e974d439898c7f11b1899b5dac529557955935032a13ba5ad81e39345af80a
+Description: diffnav-arm64-0.12.0
+
+Package: difft
+Architecture: amd64
+Version: 0.71.0
+Maintainer: difft
+Filename: difft_amd64_0.71.0.deb
+Size: 7924280
+MD5sum: 953343a9d19070d0890c8ae1a5c11d84
+SHA1: e1b8648d7a44294fb70382ef5391babf25fbd37e
+SHA256: 27fd484b64a8c9560f088e2e08c59a9bb5de68eb08b3eadf2a7f7e2dcd4d2ea5
+SHA512: 2f723050c26e1b467cdab698c0434a7eaf42765c02aec5f8db931b7b91d7ea06d6b68ca0d21e7bbddde8af237e791d5a93df54fa9372b75040c647a019d22682
+Description: difft-amd64-0.71.0
+
+Package: difft
+Architecture: arm64
+Version: 0.71.0
+Maintainer: difft
+Filename: difft_arm64_0.71.0.deb
+Size: 7688408
+MD5sum: 3869f776c8080def7f3fcda09c50e4b5
+SHA1: 4e5a3794a7f1e87b032b2bbec7299967b08a5e83
+SHA256: a78e5595f9982ec3a9dee3cf6b5ea8d7be38af7104e3aec8d9cd9054ace0fb2d
+SHA512: d5cf87164818b1b0b2af3725493a7ac52bd50040ccc23c1c3ef43e8279a5bec62194c46fe72307a7f34121683cf9e55938a576022d9bc408378e43ce5d7f4a98
+Description: difft-arm64-0.71.0
+
+Package: dust
+Architecture: amd64
+Version: 1.2.6
+Maintainer: dust
+Filename: dust_amd64_1.2.6.deb
+Size: 981366
+MD5sum: 9fa7abccfaa31bfd089e18af3f173103
+SHA1: 62b1af03c61ecb0d21e9e11bd619f983c4aef750
+SHA256: 1980d8d90243ecd70dc11ea8cbbc9d40c8b6c4b8244d9099189542754587f922
+SHA512: 698669a3fdf06dd8798d369105741d910a0ee6512024e09292047e2d987e892f7a65843b2f0d3f0d6a9082d0a9ce05a7be6306dd1f2441f79b0eb2922049ed76
+Description: dust-amd64-1.2.6
+
+Package: dust
+Architecture: arm64
+Version: 1.2.6
+Maintainer: dust
+Filename: dust_arm64_1.2.6.deb
+Size: 899320
+MD5sum: 3574478cccea682e8214ef814bb05dd2
+SHA1: a412ef406694bd0f61dbf99f022971428b163e9f
+SHA256: 9cfdf8c81a61323b6053715f210e41c1134c6f77a7fbec84ca20a9578e6496e4
+SHA512: 58301b829f6755d26d635fd527f1318b84f3815d266793b769cdf151b4a08bff99c89e3b54f3a1c3ff0effce5fc41a08264b93021056b93fd75785dac78997ed
+Description: dust-arm64-1.2.6
+
+Package: eza
+Architecture: amd64
+Version: 0.23.5
+Maintainer: eza
+Filename: eza_amd64_0.23.5.deb
+Size: 1067354
+MD5sum: a6d9b3b44ddfcac0db3394d4733812bd
+SHA1: 7a2ae2a1241526f6712d5fdb56b1717ff89f0521
+SHA256: 10c1626b6ecf0a8afbac10465c00cfe1ac7137df1ab6ea834e684c748b650252
+SHA512: edb374300f4f8202cff14621f4396154cf35212464f5266e87911aae7b72cefa3b1d511906d4b93b5e5b653aa8b00f0e0b71e17334ced50fcdcf73d24408cabd
+Description: eza-amd64-0.23.5
+
+Package: eza
+Architecture: arm64
+Version: 0.23.5
+Maintainer: eza
+Filename: eza_arm64_0.23.5.deb
+Size: 978206
+MD5sum: 87d82ad676a781e4f4fc972c335ac2f3
+SHA1: 120e2b907e6dac4e2f5a7e007d41dfef87f579ba
+SHA256: 42d83da621b0db295584e6b129e4727c320c6eef6647766035e21e44e5b5ddc7
+SHA512: ab1e561330a1d2f60546f4e0cd3ccf39fd5771e72265ef51d03e88f4060c3431bd5c3640d89dc62b0912333529f16060cf45cce27ca27de01a0f7326e9957e0a
+Description: eza-arm64-0.23.5
+
+Package: fzf
+Architecture: amd64
+Version: 0.74.4
+Maintainer: fzf
+Filename: fzf_amd64_0.74.4.deb
+Size: 1923622
+MD5sum: 4e2cbce70be2172d687e1f38465fd6c2
+SHA1: 69f33c3ae20c69ba9b7c5b878a804d7da4ad4163
+SHA256: 0969e1ef10df70f03e48e12fb5b164ec77824cb90b2502ae1bb8674e60e8594b
+SHA512: 54252b67b656c8e577267f3815d6832cbdfe2eaf1dc2f1653daae5bd3e9e68fbd1edca5e113e5ffb6e6f3ad615c936af8bd306dcb119d11892c3a90b59859728
+Description: fzf-amd64-0.74.4
+
+Package: fzf
+Architecture: arm64
+Version: 0.74.4
+Maintainer: fzf
+Filename: fzf_arm64_0.74.4.deb
+Size: 1717810
+MD5sum: d9acb12b2a6f7cf704e3e69322dadc63
+SHA1: fa58b1b8c1ac695cf4a65acd676f3587a26f5640
+SHA256: 4aee3ed4874a16f4e4250d4144d99a4d0572c8a84e6b66f03d5fefa6d4b5d3f6
+SHA512: 85dfa809e9b80504bb5c538c8d3bf5b77d52e084a6727a6d722bbd0224ff034ca872d1bab25862fcf77c8f435f32c7bd77d61531a313e6a7ff3d89c17d636d4f
+Description: fzf-arm64-0.74.4
+
+Package: gay
+Architecture: all
+Version: 2026.W40
+Maintainer: gay
+Filename: gay_all_2026.W40.deb
+Size: 4662
+MD5sum: d09be447b8c1edc0c1481795a7eaabca
+SHA1: c5f6f0dc6e1e1eb8e3db35aa11d53b1fffef3561
+SHA256: 7beed4fbfe033f01751a613a07b484a64ea735bfd5d6ac68a2856798cbf30c86
+SHA512: 94a454d0eb196e4ed08d556d5ce4f1145e6c5cc922bcf2f8c72dc4e00943fb1943ffc13bdd345faa40fc0aa8865b87a080bdcc8d783d4d809167f65c40dc2574
+Description: gay-all-2026.W40
+
+Package: gh
+Architecture: amd64
+Version: 2.102.0
+Priority: optional
+Maintainer: GitHub
+Installed-Size: 41507
+Depends: git
+Filename: gh_amd64_2.102.0.deb
+Size: 15392626
+MD5sum: eb721d2e4dd2cb7207307ef10ed91ed7
+SHA1: eb09b49ef070397a63fe5d1d0968234c4ac8cddc
+SHA256: 45a21879dd1372056f854843eddc234310409675e2d2d3405a6c607093804440
+SHA512: 57e169c8c0ac8a466f91041fe24a4745ce70526299377fb568faa94206ad4c7259b7dc3190c252a5561fe0863ffdfc456e7b727744b17a73cb5c16742e5bf5ea
+Homepage: https://github.com/cli/cli
+Description: GitHub’s official command line tool.
+License: MIT
+
+Package: gh
+Architecture: arm64
+Version: 2.102.0
+Priority: optional
+Maintainer: GitHub
+Installed-Size: 38551
+Depends: git
+Filename: gh_arm64_2.102.0.deb
+Size: 13980950
+MD5sum: 4b8e744426a8fec1d749a1f92773572b
+SHA1: e38126c4ea2fabd71ce85db40ea829e53ad384d1
+SHA256: 013373e259713589fa3c47edd611a2b61638f736d4a4dc08f4cb805c25f03bbc
+SHA512: fa7242233a7b9930e01fdf8d0edec20974fade82ecf2250857560fe811beb0ea1afd1aee36672a58272250489c754e9e684d4ce8254d2e18667f84e3580ffd48
+Homepage: https://github.com/cli/cli
+Description: GitHub’s official command line tool.
+License: MIT
+
+Package: git-delta
+Architecture: amd64
+Version: 0.19.2
+Priority: optional
+Section: utils
+Maintainer: Dan Davison <dandavison7@gmail.com>
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 4.2), zlib1g (>= 1:1.1.4)
+Conflicts: delta-musl
+Filename: git-delta_amd64_0.19.2.deb
+Size: 2630632
+MD5sum: 147c00a82bfc546941dba6c620842d8e
+SHA1: a9c8a92060fabd6d75cfa9d4d42a302fa213bd05
+SHA256: 825933703b34a2eb3f14cea4bfc7532ed9241775a2c6511cee490be2572f95a2
+SHA512: ffca8e990621aceead05afe462dd06814ae0930f3b661fbb0046b772f08f956ca9b18804c5308f5b85b5efb2a4a41bea2914adcc6b15fa58dd1868cfa7d3e355
+Description: Syntax highlighter for git
+ Delta provides language syntax-highlighting, within-line insertion/deletion
+ detection, and restructured diff output for git on the command line.
+
+Package: git-delta
+Architecture: arm64
+Version: 0.19.2
+Priority: optional
+Section: utils
+Maintainer: Dan Davison <dandavison7@gmail.com>
+Depends:
+Conflicts: delta-musl
+Filename: git-delta_arm64_0.19.2.deb
+Size: 2395932
+MD5sum: cd2b65573106ea3fdfc639b0527b4da1
+SHA1: 8a8f0cc5a2326dbaa8b9786e16eb1cc8dcdd4d1d
+SHA256: d437c0567d06ef0126ebcb9264f954dfd7bdebb5ac0608cf01a9ee628091302f
+SHA512: 9145a66669f96f945a8fe76dc702c0e115046084a95ca9b5ef56b2330a8a5fbdc24470a3caade3e10b476591e12bc60ec78ab7cd585b86d91a479bd38c6f01e0
+Description: Syntax highlighter for git
+ Delta provides language syntax-highlighting, within-line insertion/deletion
+ detection, and restructured diff output for git on the command line.
+
+Package: gitui
+Architecture: amd64
+Version: 0.28.1
+Maintainer: gitui
+Filename: gitui_amd64_0.28.1.deb
+Size: 5795426
+MD5sum: 0f72ee7cc2b580205ed2ef3217c7cd32
+SHA1: 1818217af3a3e2f8a85f559aeab9c16f2cbf4095
+SHA256: 1ebe181f5da379355b4ce530a1a57cba32927af933846a6e4d6aba5fac4caeb0
+SHA512: a55a32422e392e4273f4eb605847c4465876efb30a028968b0fdf127ab9e81bb938a9296c72d7d058a90d4d119eee5ac1aebb17107de5f6254bc0b9cb68a4b88
+Description: gitui-amd64-0.28.1
+
+Package: gitui
+Architecture: arm64
+Version: 0.28.1
+Maintainer: gitui
+Filename: gitui_arm64_0.28.1.deb
+Size: 6177736
+MD5sum: 613441c62df0d26a97a89cb38d34c233
+SHA1: ca20b46cfb46d28454d13c3b7009b122aa543d8c
+SHA256: 8ac873a2a1b53aabd6d61f5a8e9189f9b377f690976242286e273e39b8cd94b1
+SHA512: 9021c5b8b326ae6fe459f74bbd296be7fb906a9ab682736f96cfdfe0cf8033608a5c36df6e846817bda181a385048cc0302ffc7ce5972877be1e76d011778bf1
+Description: gitui-arm64-0.28.1
+
+Package: goreleaser
+Architecture: amd64
+Version: 2.18.2
+Priority: optional
+Section: utils
+Maintainer: Carlos Alexandro Becker <carlos@becker.software>
+Installed-Size: 83336
+Depends: git
+Suggests: golang, rustup, zig, deno, bun
+Filename: goreleaser_amd64_2.18.2.deb
+Size: 26663568
+MD5sum: 11baa93640722599a99a3354c6335511
+SHA1: cc14b4dc0d7874638a62f42ad672392eb7f31e95
+SHA256: 22b7338edc9f4055c17907ac16e4449aa68ad98120f3eddbd2ef21a817e2540f
+SHA512: 9011c684d5f6a2e9a64c386a4834f8f95cbea0615fd83f31bf7f919521bd40fd0445c4b6fff2191ff37f9adeb5807442b6f900982defe15c2e1c47e791541b7f
+Homepage: https://goreleaser.com
+Description: Release engineering, simplified.
+ GoReleaser allows you to release easily build, package, publish, and
+ announce to several places.
+
+Package: goreleaser
+Architecture: arm64
+Version: 2.18.2
+Priority: optional
+Section: utils
+Maintainer: Carlos Alexandro Becker <carlos@becker.software>
+Installed-Size: 76708
+Depends: git
+Suggests: golang, rustup, zig, deno, bun
+Filename: goreleaser_arm64_2.18.2.deb
+Size: 23981896
+MD5sum: 21176fa56e372bcd8c17e3082a033aa8
+SHA1: 2b80f1a053193bdde7f1ed30a40b8517ab879f1b
+SHA256: 9c0d038330904344b3063e93fcef4ad49e71f91b7f8bd02c7056dddfa87d2ff7
+SHA512: a7ced8a6ab2a4ff3073ab6da63f93848547137aeca30682425a428bd2b853bd51549a05894f99799d136dd8899707e1af85bbef38c6fc6b5112dfda3e3c66136
+Homepage: https://goreleaser.com
+Description: Release engineering, simplified.
+ GoReleaser allows you to release easily build, package, publish, and
+ announce to several places.
+
+Package: helix
+Architecture: amd64
+Version: 25.7.1-1
+Priority: optional
+Maintainer: Blaž Hrastnik <blaz@mxxn.io>
+Installed-Size: 209125
+Depends: libc6 (>= 2.14), libc6 (>= 2.2.5), libc6 (>= 2.3), libc6 (>= 2.3.4), libc6 (>= 2.34), libc6 (>= 2.4), libstdc++6 (>= 5), libstdc++6 (>= 5.2)
+Filename: helix_amd64_25.07.1.deb
+Size: 16948024
+MD5sum: d27d14c0ef504235de33408bd36ec4ac
+SHA1: a4f38d844fe2e3e9ff7d6c10e2d388c3e8644103
+SHA256: f4fffea4914d496e0c4ca59854c339f74e6e274f95055e4632bd4ae172aecf06
+SHA512: dfdb0946322a16cebee4fa21c81ab520c4fffd36434c2cc50825bf60dcb08724411841519158b8a038086cc88da8c9a4edad63af08c0a647ab7ee5f1a00343c6
+Homepage: https://helix-editor.com
+Description: A post-modern text editor.
+
+Package: htmlq
+Architecture: amd64
+Version: 0.4.0
+Maintainer: htmlq
+Filename: htmlq_amd64_0.4.0.deb
+Size: 1467376
+MD5sum: bfe7f6d5b38664229b72e6e87e9aa590
+SHA1: 3d6f698cdd11f77cb72069e657d3c33724e60c0b
+SHA256: 244ab772b9626facf712c6344481f2a09cf2dc090c9dc833e6af35cd2b6b0575
+SHA512: 9a1b7a4c0184d4cad48b0341e96b0e0ce67f0d560c04c39aa172197f315b23fc4c4b11f16f007018804f93545813fa700646e918dae502b46b0a9610a1e8c511
+Description: htmlq-amd64-0.4.0
+
+Package: httm
+Architecture: amd64
+Version: 0.51.0-1
+Priority: optional
+Section: utility
+Maintainer: kimono koans <https://github.com/kimono-koans/>
+Installed-Size: 8791
+Depends: libc6
+Recommends: bash, coreutils, grep, tree, strace, awk, util-linux
+Filename: httm_amd64_0.51.0.deb
+Size: 5451008
+MD5sum: fd5f04d7c2aa78d833cf883b7535f7d5
+SHA1: 6c69a35b1ce3ebc6c04db823239712e060dbbb48
+SHA256: 5a67f06e694c4e37656996e94640db55452d8bec28fe71a31bcc7f3fcbcf872b
+SHA512: f0f8f8a2806b0965a55e82b1864500858036ff726f3ad94858cb6b722b2a0d8183671e74ee9004dc7fce9104f73f1536ba6e0dc549550b8ea9ed1c2c55144a6f
+Homepage: https://github.com/kimono-koans/httm/blob/master/README.md
+Description: A CLI tool for viewing snapshot file versions on ZFS and btrfs datasets
+ Prints the size, date and corresponding locations of available unique versions
+ of files residing on snapshots.  May also be used interactively to select and
+ restore from such versions, and even to snapshot datasets which contain certain
+ files.
+
+Package: jaeger
+Architecture: amd64
+Version: 2.21.0
+Maintainer: jaeger
+Filename: jaeger_amd64_2.21.0.deb
+Size: 44560800
+MD5sum: b4187a8a8525e332358a1534edb90bed
+SHA1: 67de6b3bbe211bf512cd290797ff83e358f97b21
+SHA256: 0e05ab73692d6bc88a82553ae508a9fbb1d45aca119a55a9f090b7c9d6423ecc
+SHA512: a6a29d344f7c2d50859cb5b192264dafa11688097926f3c16c3f3875f879e8d4218f8238a49adbe78b191ee9457ddb2fe98e673ad2cbc36bd2aeba971c2fcdaa
+Description: jaeger-amd64-2.21.0
+
+Package: jaeger
+Architecture: arm64
+Version: 2.21.0
+Maintainer: jaeger
+Filename: jaeger_arm64_2.21.0.deb
+Size: 40862296
+MD5sum: 3c490c1ad41654a7d7c3ad6714909391
+SHA1: 204406579ca2998f4b096108ccd8c256868a83ae
+SHA256: f8ecd56e9bdaa8303189b46ee1651f6e5754b171dda7a650a9f878326d9c8642
+SHA512: 9545bb190383faa2dcb02d1e84de3220e436f2b0fc06fa6fc189f6ef02361f28cec97548fd8ca2b540159100074f61b6b58bb072cf1ce5d147c47f23827cf0fe
+Description: jaeger-arm64-2.21.0
+
+Package: jless
+Architecture: amd64
+Version: 0.9.0
+Maintainer: jless
+Filename: jless_amd64_0.9.0.deb
+Size: 909802
+MD5sum: ff73ac77685df3bbf2b92e9c9f5e83c3
+SHA1: ab7d61962f8e3effcf4e1e1f79e2178aee4f800e
+SHA256: 1ff830e0fabd3f6ed7f211a70e15e71191d04b7a241dc9e1f8962a90088c506f
+SHA512: be30fa492635e39b154f60a39657f3f06613786ab202f0cd18b7efeb62f8c8e513e863d0d04ec87716a95da7b3fbab999b63d80555f1469d606fafb00add3fa0
+Description: jless-amd64-0.9.0
+
+Package: jnv
+Architecture: amd64
+Version: 0.7.1
+Maintainer: jnv
+Filename: jnv_amd64_0.7.1.deb
+Size: 1579868
+MD5sum: 1f207e4ab18ca427c42c792bb122105e
+SHA1: 654d687f54ec0aa22973f8e071c02e0aba4beb22
+SHA256: c13a2d234deef1e9acda28b656ebf43567e2c429c0c560f298058c2d90dea0d3
+SHA512: 3b3c6801350989dba0fbdceb507db8626ea7721b3ecd1da886ab52f6949181de5b708a7003ba2c3538b1663421f411e5694c57db9158d54ad612a4c88b29ae04
+Description: jnv-amd64-0.7.1
+
+Package: k3s
+Architecture: amd64
+Version: 1.37.1+k3s1
+Maintainer: k3s
+Filename: k3s_amd64_1.37.1+k3s1.deb
+Size: 75415908
+MD5sum: fe92c05cfaf8a2dae61c73b363755019
+SHA1: 416de2990ec52fdde0ff2ce85335761759a809a3
+SHA256: eba7a515223ac75c0c0d62ad8a889cdbc8596253a671e00a65f88aa94f2a7da4
+SHA512: 2c8e55d88df651c3eb642fbe347f9dfd9f44a2317ed749b2940f5abc6f142c73bd9ff3313f54b62f56072b9bfb9559441097e3c785ac8d9ab00534dab3b6d6ce
+Description: k3s-amd64-1.37.1+k3s1
+
+Package: k3s
+Architecture: arm64
+Version: 1.37.1+k3s1
+Maintainer: k3s
+Filename: k3s_arm64_1.37.1+k3s1.deb
+Size: 67956264
+MD5sum: a091b8bfabe75de9484e56d84dc42a5b
+SHA1: 298c99ea6ac03a399bff38499707a5e9b8344ec2
+SHA256: 3bfb6a398530b82c545765b6a19f62765e292c2cd657edbd60a9011b70771297
+SHA512: 976f7b9f0a1753c5a27b25e4b333da5dfaa5aeffbcbd2bcf230f70457adb03fc7ac71439eaad85e90d5d6a242757cfdb320c7d21a8948dc068d83bcf948ba57e
+Description: k3s-arm64-1.37.1+k3s1
+
+Package: k9s
+Architecture: amd64
+Version: 0.51.0
+Priority: optional
+Section: utils
+Maintainer: Fernand Galiana
+Installed-Size: 128978
+Filename: k9s_amd64_0.51.0.deb
+Size: 41539824
+MD5sum: d7465bb869f3cea4ba5124439ee0b064
+SHA1: 8cb9caede9181011258221b2bfc58ea698816ff7
+SHA256: d796dc56012ea93237d9f19f8d5a74305f84f8c66b3a8f1f6112267efd730305
+SHA512: 81c5d6a2eb93e2a0f9314ab2b8b503d4f9de04f3971c088230b0ee64ba18fabfc07d648375706fc4ff6288e41d5d54d2bd8eb5dcd6b4d97d5e6f2a13b91dd9dd
+Homepage: https://k9scli.io
+Description: Kubernetes CLI To Manage Your Clusters In Style!
+License: Apache-2.0
+
+Package: k9s
+Architecture: arm64
+Version: 0.51.0
+Priority: optional
+Section: utils
+Maintainer: Fernand Galiana
+Installed-Size: 120202
+Filename: k9s_arm64_0.51.0.deb
+Size: 37562156
+MD5sum: 2e5acc4b49f32dd7cf12a8a4baa79ec4
+SHA1: ab99f110fa283535da7062fa32a03b608db1ec1d
+SHA256: 17511f65f1dc944a7a34a041948eb7860ea59bc16265a423f3e84c3976c770e3
+SHA512: dcec52d5791c6c8a4c3e9b20a759443b855bf510c694259badd4717e7e41939766f1eabcaf8af8673b323aa2dae8477a2691bff4ac1eea5719cad681b4e363b9
+Homepage: https://k9scli.io
+Description: Kubernetes CLI To Manage Your Clusters In Style!
+License: Apache-2.0
+
+Package: katana
+Architecture: amd64
+Version: 1.7.0
+Maintainer: katana
+Filename: katana_amd64_1.7.0.deb
+Size: 28005170
+MD5sum: fa2ba828d84e677b23fa3e148e4e5039
+SHA1: 2a4d4f5627c53f242601d8315fd4d00b3f608f33
+SHA256: 3ea7aefd1d96e526abc4d27b9ac36de298fb376440661a1da9b22cecd1a28c23
+SHA512: b944d7fb9c7adfbb867efdb5ff396f42031c14de394b4da9db5d4e459f50226dbcbfc722843cad6b222bb859e1a073cc5129e8fff1d2eddee1e849ce9f76de00
+Description: katana-amd64-1.7.0
+
+Package: katana
+Architecture: arm64
+Version: 1.7.0
+Maintainer: katana
+Filename: katana_arm64_1.7.0.deb
+Size: 26750280
+MD5sum: 0bb7cc22e3c8db4f019425a381f481ff
+SHA1: 3df26c56b5991b61959e71de97df5a4853664fce
+SHA256: cf8ff5e7a7cbeac3f2aded819efcfd6808ad194226e4dc78d93bd20cb1b5147b
+SHA512: dc918ed56d441ddbff97824e99883f759a5d947dc5b999f4135773ac21b354998fea8e8b2abb7242ca9fe80b2eb19c17bcc49a02d8b901a6d1dd3dd6b63b0fda
+Description: katana-arm64-1.7.0
+
+Package: kubectl
+Architecture: amd64
+Version: 1.37.1
+Maintainer: kubectl
+Filename: kubectl_amd64_1.37.1.deb
+Size: 13264262
+MD5sum: 514351c660ba17b250fe4a2955e0c696
+SHA1: 707ea3310fef5dd559d4a8c02aa5cffe84c25991
+SHA256: 8bb562090aecb191a18f4e5945df01cb5a692fd5118408abc661b35462e59d7f
+SHA512: 31d967fecdd57dcb6b1ffc590c655b21fcb6c5f8d6fa20f17aa886eb31bacb2f62716d403106e1d9bd5072e3162010d06be4af392e63bc14dcc47c71481d48dc
+Description: kubectl-amd64-1.37.1
+
+Package: kubectl
+Architecture: arm64
+Version: 1.37.1
+Maintainer: kubectl
+Filename: kubectl_arm64_1.37.1.deb
+Size: 11681750
+MD5sum: 7efac7007e07931a5d98d4b2a03719a0
+SHA1: b5b453a85885e92f1491aff9d403de886ec7c03d
+SHA256: 45cb85dcb7efc31fd1eacd0302aeca5baed301ac19ac4f87ebc44365fa16ab02
+SHA512: 84d1857194c0ca42c2b2337c85ca0fea80ccc51ffcd6ff43b8c45e152aa03ede2078bf3c490b8bbd8790206ac91fb3e103f18169f576d88c75a57dd188ecd8f2
+Description: kubectl-arm64-1.37.1
+
+Package: lazygit
+Architecture: amd64
+Version: 0.65.1
+Maintainer: lazygit
+Filename: lazygit_amd64_0.65.1.deb
+Size: 5599862
+MD5sum: c300aff518e5b4e237aed945e80d46a0
+SHA1: d5c565cb69aec469e0bce44ed8dc395dd1541b1f
+SHA256: ce1d9d62aeddcace3ae65611db65f5b5fe9d9c2232bb1b7f004deb753a248b24
+SHA512: 69a4a151b37a1a9cc757a83c5737a8bfe28de42291b8316bb3b4246a6abef356d40f303c702afed2a069c0c327cf40b2516e652a6dc54e64a41129c752c583f4
+Description: lazygit-amd64-0.65.1
+
+Package: lazygit
+Architecture: arm64
+Version: 0.65.1
+Maintainer: lazygit
+Filename: lazygit_arm64_0.65.1.deb
+Size: 4987826
+MD5sum: f1548a4f82bef887ed6b945da7ce8e4b
+SHA1: cdf0c2430ef4f024c53bd4cf46e23740a37dffb7
+SHA256: 206aa7ac64171f09a4c07569963cd0bc4e0ee5254ee7dc204d5a11f0b1fa8e09
+SHA512: 412cd48fc59b025bfa9aa2b73c6f4110da84e0472590acec43ba6020d3761e29d780007d40fc41ced8fd04ab2fe3293bbbd0cc2ab53708a973605e4a24f99d88
+Description: lazygit-arm64-0.65.1
+
+Package: lf
+Architecture: amd64
+Version: 42
+Maintainer: lf
+Filename: lf_amd64_42.deb
+Size: 1975458
+MD5sum: 8020e2bbe50f80093f850143012ed124
+SHA1: 73ed35dbf0ce40f2e4531b0f39db5798537812ea
+SHA256: 2a3271a2f5a00831f32ea58a65a1798fe4a1f7e935ed065ae4d8e4b6a310fa8d
+SHA512: 83b59ca51bce11494566882ef27916a700b22e30fe9e1673b2accd176d4b88d46fafcd0af436e35d1a5c9dda03096a517be05651c3953eb7f6df69d2e50c73c8
+Description: lf-amd64-42
+
+Package: lf
+Architecture: arm64
+Version: 42
+Maintainer: lf
+Filename: lf_arm64_42.deb
+Size: 1766022
+MD5sum: 104575d9893c9888c2f9000f1e438e7c
+SHA1: 94c2a2de85e9c8f32305e53b683fcb0f9c926e1e
+SHA256: 7d9a886ccc153fc77c84e05a9bac259ce58d070bce0d5c5876d1f3bdf1b4b444
+SHA512: 68858755dc560e1d0ada7c5f88d563543d2f84373584989352fbbbca058e4f0fae0f11f8b06daa71d95c05d98c7cc09fa9b3ebe5032729eee28585f1b0a8a181
+Description: lf-arm64-42
+
+Package: neovim
+Architecture: amd64
+Version: 0.12.5
+Maintainer: neovim
+Filename: nvim_amd64_0.12.5.deb
+Size: 9074168
+MD5sum: 285c2ff2f855b636abe4a69f7572a853
+SHA1: 56d47344fad9dbae948ec2713d21c1eab859202d
+SHA256: de594e1d42006f01b5590ed03a1ccdd73fae197d0314f4f98332543429cead72
+SHA512: a50b557363adaac147e3b5fa3a741ad5ecd71acf431e7c137f8b002975c3bcf0645b79a819fa7125573bad58cabe6981226144b9c3824b2e1a57ab3ca806e5d0
+Description: neovim-amd64-0.12.5
+
+Package: neovim
+Architecture: arm64
+Version: 0.12.5
+Maintainer: neovim
+Filename: nvim_arm64_0.12.5.deb
+Size: 8987444
+MD5sum: 15d0c4a26a86b8cbfe18e50f2f1b2bb0
+SHA1: 3e53b0b8ab2c5670997f1f4b60e9ba8e84fb60e6
+SHA256: 17af615d9b187254d721b5c50c5fdb6ce71ca8bdede4130f7655e4611074b949
+SHA512: 62f560f1094fda4a08152b4359b557629b886e6079e32a7d56038f9b0f38123e62ef036496058729da689fe56392473c4524ea9d1a000bc308faf3b869fb148d
+Description: neovim-arm64-0.12.5
+
+Package: oh-my-posh
+Architecture: amd64
+Version: 31.4.0
+Maintainer: oh-my-posh
+Filename: oh-my-posh_amd64_31.4.0.deb
+Size: 4713004
+MD5sum: 60789cf6235dbb05b158bcdbe7c38780
+SHA1: f5886c2fcf84907f63883f1ee23cbd8c588d9449
+SHA256: e6f5c35d1e0bb594be1ded5204557b6903b2cd0941e8d676304b97aef507a300
+SHA512: f2c6779fcd9f1402f923f7df584d76ce69a05050855ea17b446f0fab93dc006085ca6b14beab2b93712001fc5c906fbfe8958e6914e77527526fd859f8872abe
+Description: oh-my-posh-amd64-31.4.0
+
+Package: oh-my-posh
+Architecture: arm64
+Version: 31.4.0
+Maintainer: oh-my-posh
+Filename: oh-my-posh_arm64_31.4.0.deb
+Size: 4164996
+MD5sum: 5a9705d4647f0b3b3ce4bf2694fe631a
+SHA1: 6f577ca6f10b0584ef1e520fed99d8a4c48c8cca
+SHA256: cced40116e86d60f6ef8c109843d22bb2d394e9f86506d9e89ad4d59c5ecde6c
+SHA512: 58d0f68001883fbd869b026fec64d7dbc3e00834c280943635d852a6a096db904f7416b4af9527bca08df530da88354dcb42525bb72427acda776688b220705e
+Description: oh-my-posh-arm64-31.4.0
+
+Package: otelcol-contrib
+Architecture: arm64
+Version: 0.162.0
+Priority: optional
+Maintainer: The OpenTelemetry Collector maintainers <cncf-opentelemetry-maintainers@lists.cncf.io>
+Installed-Size: 370562
+Filename: otelcol-contrib_arm64_0.162.0.deb
+Size: 102069288
+MD5sum: faee5792cb8f66c1dec1af36f5d61e8a
+SHA1: d3c820adfc34f21393356aaa75c1f0a73cbf97a2
+SHA256: c3be64cd2b9adb587f8bfe4dbce751dc673cbfdb5bab186860d4d9b0de8dc5af
+SHA512: 95261e139f23cbe526415bd9bd3151aafa39f31b4a9ea3980beab322075bf168aa966ab552aaee71b9d80e0514e65c2b957fe59b8fe80c45a9fdde39c879e858
+Description: OpenTelemetry Collector - otelcol-contrib
+
+Package: packages-microsoft-prod
+Architecture: all
+Version: 1.2-ubuntu24.04
+Priority: optional
+Section: admin
+Maintainer: Linux Repo Admins <aztuxrepo@microsoft.com>
+Depends: ca-certificates
+Filename: packages-microsoft-prod_all_2026.W40.deb
+Size: 4468
+MD5sum: c3d60c0f5624aeeff95196f8babb48c3
+SHA1: 8c53cd3b3547825d1c35299fb89a6cafee0034e2
+SHA256: aaf78a7b9ba19775cfcfa54f24660db54f214629c6f8c28e540fb4e2c3d7f0b8
+SHA512: 0d69ef54377d51894b85b0627d68881043acc9a4590793abb8adcdb2fa7306cde01f3d984707b4b8f5bf3c2ac0814b877a27fc34e7d426ae2a87e52d606caa77
+Description: Apt configuration for packages.microsoft.com
+ This package contains the apt repo configuration
+ for packages.microsoft.com and the public GPG key.
+
+Package: pastel
+Architecture: amd64
+Version: 0.12.0
+Priority: optional
+Section: utils
+Maintainer: David Peter <mail@david-peter.de>
+Provides: pastel
+Conflicts: pastel-musl
+Filename: pastel_amd64_0.12.0.deb
+Size: 501378
+MD5sum: f5f8d8f4af9362396d9d2c129b9b2769
+SHA1: 71859271a9e2bd0fe11d5d200b258eb22dcde194
+SHA256: 19b0917d705ac5a191af993d9be04fc3d6df7753b874178051dbda66beaedf37
+SHA512: 44e5fabea8e538e4cea49d104b9a3b877d3ba71864410f623738fab77d53253e0cd41a3d3c405752912b57ee617973d3cc4fad2bfcaa039cc43ce06926316d70
+Homepage: https://github.com/sharkdp/pastel
+Description: command-line tool to generate, analyze, convert and manipulate colors
+
+Package: pastel
+Architecture: arm64
+Version: 0.12.0
+Priority: optional
+Section: utils
+Maintainer: David Peter <mail@david-peter.de>
+Provides: pastel
+Conflicts: pastel-musl
+Filename: pastel_arm64_0.12.0.deb
+Size: 457584
+MD5sum: 4bda2f37e44254b3013f4808ee24e267
+SHA1: 88f20467cf5bb7bbf1b5abb06dcb95150fa5c924
+SHA256: d289d622926539dca96dc63c20a37e5adf55c76e40089d1ef56b66ecf762f498
+SHA512: 8d6443c10e32c8195705ee3835e34fdf3159706d645e406a1fb1e1367e66484aa920747e9ba5171963e8a8ecf3bb44a350596b7300857c91ac230fdd0fb9d368
+Homepage: https://github.com/sharkdp/pastel
+Description: command-line tool to generate, analyze, convert and manipulate colors
+
+Package: presenterm
+Architecture: amd64
+Version: 0.16.1
+Maintainer: presenterm
+Filename: presenterm_amd64_0.16.1.deb
+Size: 3168478
+MD5sum: 67285a1ba3dc5516ab0eb4e9a3f3efee
+SHA1: 7915a261bb050ae42e5687575a00dbfe8637f16a
+SHA256: 662fd988d2fea76c15c5709605c5a2b48e0bcc090947f83f9a928b60b9a220c8
+SHA512: 2e5601d403942c7e782eb147efb0926c76d8eef20b031b7118b15b70e85ac14624b9396048a4381606565ed8b853b63b58895e8f24bffbea6354938f6aa03781
+Description: presenterm-amd64-0.16.1
+
+Package: presenterm
+Architecture: arm64
+Version: 0.16.1
+Maintainer: presenterm
+Filename: presenterm_arm64_0.16.1.deb
+Size: 3067084
+MD5sum: 96ffa4e970a1dc046c5402ebef5e819d
+SHA1: 8aadf2abaeee8135d9220029dca792ebafeff4ea
+SHA256: cda29914235dcad90acdfbe991fc808a4813558025d1ea8e36156c2e6e27e73d
+SHA512: 61bdda164d16f7c43d0599435ce1248d1e972261c4b2a4ed2c3ea756a6bb9c71747c1f275b9db45ed7551c3124b92b51dcb373d9f9a635ce0a8a06374a37e7a2
+Description: presenterm-arm64-0.16.1
+
+Package: py-certbot
+Architecture: all
+Version: 5.8.0
+Maintainer: py-certbot
+Filename: py_certbot_all.deb
+Size: 6869252
+MD5sum: 19d3d0fcdea3f79cbc0f0272a5869a80
+SHA1: 6d1bae31ab26060826edb2d08c5119a63516cce4
+SHA256: 6be7bfa80dff2d8b0ada5fb12d38fe7299d8e5d03e2bf776d22f2ae8c7746466
+SHA512: 372ac7e0c1c266010b117fee252d603fca120a9d30dda7d8d9051c7611797fc47895f0c083bfa40f0600ba041098db3c7940a0169136a37b69141db8f003f809
+Description: py-certbot-all-5.8.0
+
+Package: py-elasticsearch
+Architecture: all
+Version: 8.19.3
+Maintainer: py-elasticsearch
+Filename: py_elasticsearch_all.deb
+Size: 1648938
+MD5sum: b64176d75293a5c4f61a48781fe31820
+SHA1: 9a90957a686daf6e06c5c44d04f6fe1c14b9e2f2
+SHA256: 534a2d566558388d9cc73ae2f2ab744e5ace2d2268d5aa00ae1dc5307b43da17
+SHA512: 2c2f72775ac7b489f7eef2217fb7ac047ffa5c3e1ca9847a8b71cf80acf83bfd4149773ed3ab5a4f141c07020fe48f21c39754132ccf7bd34a930fd5bc41e2f8
+Description: py-elasticsearch-all-8.19.3
+
+Package: py-gixy
+Architecture: all
+Version: 0.1.21
+Maintainer: py-gixy
+Filename: py_gixy_all.deb
+Size: 622238
+MD5sum: 1ef4f60db1ac83388a6174e46af86d7f
+SHA1: b59db0e934c47a3f9f0c18e9247390561d67c01a
+SHA256: ff43571e110893e1d987aa13aad0a6817572b38652c390eae63f2a52da8c6dc2
+SHA512: 151a85c8f4504119c928566e756751e583666a157f7d193b9f279dafaa7131d3a9c2d5a2480b4d1c772aec0cd8d8dc3d083d3c4f6a1b871a91acdef35948d6a4
+Description: py-gixy-all-0.1.21
+
+Package: py-you-get
+Architecture: all
+Version: 0.4.1743
+Maintainer: py-you-get
+Filename: py_you-get_all.deb
+Size: 3739768
+MD5sum: 30b72ab6c4b3ce841bfaefe33533040a
+SHA1: 38323bc63eb58aef2faf4080df265865a5431537
+SHA256: f83ee7eedf1e86d68c1f173f0cd30fbba829d25193306e70e2ff146a537826ac
+SHA512: e6b19a5b44a9f39211f9772a0737ef9535f3b7096aad18d4d1d0ef445b18692863f339380d3c3b6f210362fb02a6f72beb3add39bf84a4b510f0f1cfd3b021bb
+Description: py-you-get-all-0.4.1743
+
+Package: rclone
+Architecture: amd64
+Version: 1.75.1
+Maintainer: rclone
+Filename: rclone_amd64_1.75.1.deb
+Size: 22848204
+MD5sum: 50cba65a8c0b9f0b4049ddb5df672355
+SHA1: d4f1891f365d77462034394743bd0cbdb9eed2e3
+SHA256: 19916c221ddf35d55ea3d4cbf3f7bf6e4489d192f9e81843918d8d937610a965
+SHA512: c5ad51a875e513ee06ae360c94dfe7891a3584d364de044e4ab4d7e65f1ef1abf3d20e467b55969b115c591cf6abf6357f2c69874577e317bd0d268def09c050
+Description: rclone-amd64-1.75.1
+
+Package: rclone
+Architecture: arm64
+Version: 1.75.1
+Maintainer: rclone
+Filename: rclone_arm64_1.75.1.deb
+Size: 20360750
+MD5sum: 6b2a9c0e18a0fbe2c78fc177aa685bee
+SHA1: caf6ed0f3186561712d172d1e52206b12267fb01
+SHA256: 3da68e1f65b744a328b32e45e1e8336616daff83ed39b8432b7890db236b96f7
+SHA512: 69e9cac9241aadbf6fb8550fd4a6cd7037358f9a35db88134e3845072dfc0ac33316839dc379845791bb41193813abd1599fd8026f212dfdef39f97d36116699
+Description: rclone-arm64-1.75.1
+
+Package: registry
+Architecture: amd64
+Version: 3.1.2
+Maintainer: registry
+Filename: registry_amd64_3.1.2.deb
+Size: 12254104
+MD5sum: 833ff5a9ba316b0603e9c7290a3a1c14
+SHA1: 62906dd4b9a4ec5cf7f02e172bbed1b02b45c5cf
+SHA256: 8a613c7cbb8aaf9d83604b19e4733e6410bb8b054dfa0e824c54c5471ef954fc
+SHA512: e38bd4774334cbf249b90035a5398a5e3dbd02f9ffb1eb04062b7048780e23491e5e0713e4d7eb9e6c6748fb55f83be0260fbdbc07407dd08b983c61283530bb
+Description: registry-amd64-3.1.2
+
+Package: registry
+Architecture: arm64
+Version: 3.1.2
+Maintainer: registry
+Filename: registry_arm64_3.1.2.deb
+Size: 10838430
+MD5sum: e235a70fa8059bac5d4ebbdde9ea6368
+SHA1: 2cc1498df647b2ad4074515a83732791e09c3adb
+SHA256: 922c99889b365de8838fda16dd1936310ab419de8d6a9ce48c76aafd692a30b3
+SHA512: ec3ad573c62e0db5469ec22a676d78e7ac4c3c466dbfaedff4c5facfa26b3d4db82594e9f3607a236c69e702b0885861c25179d26c903d1a2866b27b9791a807
+Description: registry-arm64-3.1.2
+
+Package: s5cmd
+Architecture: amd64
+Version: 2.3.0
+Priority: optional
+Maintainer: Peak <packaging@peak.com>
+Installed-Size: 17244
+Filename: s5cmd_amd64_2.3.0.deb
+Size: 5239998
+MD5sum: 91608eee6cfe23feb5bb5e670ad32b8f
+SHA1: 4c774c0bb47b55cac68f8f41c9aeafa94173d7a3
+SHA256: 20d9c50b96bf562e9c9eee6f3d7828cad06480346acb524e286ace7677b453bb
+SHA512: 55416c9dbe406c26f3ae096eaa676cc0d9332098eb27ea817e436a0ded0ad2e357109313ae26b8069a73932a4f964d10df13bbf408ae037cf70ffb5d453c5e7b
+Homepage: https://github.com/peak/s5cmd
+Description: Very fast S3 and local filesystem execution tool. It comes with support
+ for a multitude of operations including tab completion and wildcard
+ support for files, which can be very handy for your object storage
+ workflow while working with large number of files.
+
+Package: s5cmd
+Architecture: arm64
+Version: 2.3.0
+Priority: optional
+Maintainer: Peak <packaging@peak.com>
+Installed-Size: 16960
+Filename: s5cmd_arm64_2.3.0.deb
+Size: 4765946
+MD5sum: dd45f75e0302c4f3efa8e4850fe8ea8d
+SHA1: 356827576a53fc262a741275e978d27c65f46e45
+SHA256: 89fae72d167f4fac2f19c35fef2fd7fcc748c197cbe9696cc0fb9b76a3641837
+SHA512: fc737c6fbf4fe2dab9892ddd3133e723996e48f27cfc74d32422b59cc97440b121cc1818279a8a7d6662f163be782e0369c1fb7479182e619d58c16901fd4c10
+Homepage: https://github.com/peak/s5cmd
+Description: Very fast S3 and local filesystem execution tool. It comes with support
+ for a multitude of operations including tab completion and wildcard
+ support for files, which can be very handy for your object storage
+ workflow while working with large number of files.
+
+Package: sad
+Architecture: amd64
+Version: 0.4.32
+Maintainer: git@bigly.dog
+Filename: sad_amd64_0.4.32.deb
+Size: 1239260
+MD5sum: 248bf0b5b9bfcddc44de8318337c4e71
+SHA1: 3d73c090825b70b4c17b712f1eb5673c6930cf06
+SHA256: cce90173480f4c35f6958bf51e5b7d69f163dd324ba0baa7cdd74acb3dfb7f5e
+SHA512: ccfbe51398555cd24ed61da7bc37ce5e84de853ac3e3e54f0833e934a1b9c2aeb719225b4ddeff0268e2f886dbcdea566a2c4b1ae8178cd05290161cef08c2e2
+Description: Space Age seD | https://github.com/ms-jpq/sad
+
+Package: sad
+Architecture: arm64
+Version: 0.4.32
+Maintainer: git@bigly.dog
+Filename: sad_arm64_0.4.32.deb
+Size: 1182694
+MD5sum: db2636cc0fc25881172d450e123e506f
+SHA1: 6c2d7c7cbada436cd5cc0f58afa010f89be7173c
+SHA256: 032d5f13f3e0103d622bee75a2c3c5fb5c0942e683570360dded1b373e57f6b0
+SHA512: f88e6c7c7899f594b051e440a7dc85c58eedca5544a6b4fc642c0005f2b522e4561497ba80b66d46abde7e951253a277cab3f535c05c608eb74d08d9074a66ba
+Description: Space Age seD | https://github.com/ms-jpq/sad
+
+Package: smartdns
+Architecture: amd64
+Version: 48.4
+Maintainer: smartdns
+Filename: smartdns_amd64_48.4.deb
+Size: 1948956
+MD5sum: bdc5e56bdbd54d61ded6e3fe8945a1bf
+SHA1: 7ecffe13f5f66e81ae2f0e1b472c18d1f1762a57
+SHA256: a51b98310eded3a3b13fa9bb83a47994dce11ed6468c18a2351189c758a05ce0
+SHA512: 846adab4716ba98a45f0ec74aaa27989df0d84d21e98faa68704dd4dc38cc37c7f1d4cebd0e1931ad9e33e4cbb1ec0cbed10d5612867b164c20453c0543e6a83
+Description: smartdns-amd64-48.4
+
+Package: smartdns
+Architecture: arm64
+Version: 48.4
+Maintainer: smartdns
+Filename: smartdns_arm64_48.4.deb
+Size: 1846594
+MD5sum: 5c002415921308243e99cf74fe1f372f
+SHA1: 5cff94085db07df7b27b3000d3933d86d831374f
+SHA256: 9aafffe7a6dad91c819b1d938b5d90b3667fdef4cec23a2bbe5eafc913f3a545
+SHA512: 771e3ee8147fd80646216c0f174616300e89b829f621bf2bf66fed6e5aa27254be0ac83fb4fbfe40e7329de6012e0b703a536b004c12c522bc5e40cdc9a7be5c
+Description: smartdns-arm64-48.4
+
+Package: spotifyd
+Architecture: amd64
+Version: 0.4.2
+Maintainer: spotifyd
+Filename: spotifyd_amd64_0.4.2.deb
+Size: 4356590
+MD5sum: 0e4e9e918de27b2d523e86ac62dae08a
+SHA1: 28be81c17473d1d1925bde4821d2e6f81899b7b2
+SHA256: 3df14d121bffb6e5126dc88924afa16dab2dd28ebee7033032d1060295979e0c
+SHA512: 0863eb51a5c3334b018dcf0fb2a32e8a1f7436d4053136592a17d5703e61860505a925c21bc98fab6512b7ad5c056500355f52c067024ac6741d4e053364932d
+Description: spotifyd-amd64-0.4.2
+
+Package: spotifyd
+Architecture: arm64
+Version: 0.4.2
+Maintainer: spotifyd
+Filename: spotifyd_arm64_0.4.2.deb
+Size: 4217064
+MD5sum: ee6cb803e3e9e7d391c03189f381009e
+SHA1: 770688fc68f8d5314510e8f915293d56507a108a
+SHA256: 67f67a401a59de50fbb0c5811887df2ed8cca0293c8571d037c3c9e0d05d8f72
+SHA512: 6a2bcbb233577c9a9485763b1cd6fecb852738c7d991a1b51917c236e8d2f63a7f89e302dd12a64e788da7d44919f9d2aba74a13c614b471b88e1dc028d1c10a
+Description: spotifyd-arm64-0.4.2
+
+Package: starship
+Architecture: amd64
+Version: 1.26.0
+Maintainer: starship
+Filename: starship_amd64_1.26.0.deb
+Size: 3964196
+MD5sum: ab7e2cc34d3358e7a7af0ab3cc24f466
+SHA1: 3858e5c0bc4ee64b2dbb571e95835ca2b29d56eb
+SHA256: 9e06643eda6e56f8493e51da5ee5e3038abee1fc3f9c54004b69906113a04062
+SHA512: b8143e20c75aaa917e63cb62b9dfa3d8d3eb2ea751c81087cf346561e3d8cff59275c5e97b36cdc10c80edd3f573d8da621623335fc409df6738d1ca2f792f4a
+Description: starship-amd64-1.26.0
+
+Package: starship
+Architecture: arm64
+Version: 1.26.0
+Maintainer: starship
+Filename: starship_arm64_1.26.0.deb
+Size: 3677946
+MD5sum: 1ac90fcdc3391a90fda887811aba3100
+SHA1: 7ad400902ce52e7eb4397c67c0cafa6367a1b8bf
+SHA256: f3c968e44b5c0482d4598e47dd9fb68b64c1b66db35ff2575338b861ce30fe5d
+SHA512: 4835e49a0d95e192df8f77fe5741dbdf09919e24e4978c059fd1f5b22975f3a800832b15cb9808e6cb4c8bb9d59dd0d2c324f09f462f7fa64e898129d9b9406b
+Description: starship-arm64-1.26.0
+
+Package: tidy-viewer
+Architecture: amd64
+Version: 1.8.93-1
+Priority: optional
+Section: utility
+Maintainer: Alex Hallam <alexhallam6.28@gmail.com>
+Installed-Size: 7139
+Depends: libc6 (>= 2.34)
+Filename: tidy-viewer_amd64_1.8.93.deb
+Size: 2069584
+MD5sum: c8c2f2dbe84629f6576ceb9f36465db6
+SHA1: 9f0f1211e17c2da0a05af3ec570540c32ede337f
+SHA256: 1bd232e4f97cdf2f811cac43372396f9dca8f3551aea1c2c1551f366ce7bab6a
+SHA512: a3e276f04e5b5ed86eccd2d8922b459f6ea78fd6f2d5c377447808d5c23fb92e3f11e8fb0e8993cede9dcde2bcb60bc6db684287f165b611e3de2a87ec4fd84a
+Homepage: https://github.com/alexhallam/tv
+Description: Head, but for CSV files and with color
+ Tidy Viewer (tv) is a csv pretty printer that uses column styling to maximize
+ viewer enjoyment.
+
+Package: tmux
+Architecture: amd64
+Version: 3.7c
+Maintainer: tmux
+Filename: tmux_amd64_3.7c.deb
+Size: 1240426
+MD5sum: bd3b61211c0c308e40c441684df430c1
+SHA1: 2715153b9b29ff4c1beeecaabf6d9dac97d38fe4
+SHA256: d2eeaa91667169c5c191728df5e8b6c03866d0ce0f5a2c24ddf3dfb2b29f4d0d
+SHA512: d95dad920aa6974be0968a5e97a15da34476437ce6f5f7cfb591c77d85a5e5871ecc02529fa6358854db475043a631787d3c12cdfa9c6d33f863e430dc883eeb
+Description: tmux-amd64-3.7c
+
+Package: tokei
+Architecture: amd64
+Version: 12.1.2
+Maintainer: tokei
+Filename: tokei_amd64_12.1.2.deb
+Size: 1641632
+MD5sum: a91b8cc308468299b78c0d25b6a842c4
+SHA1: 6b8b89c8d6df8ce9859e31f1d68484eefa5d7145
+SHA256: 792f8ca34f54287115d8a9144e76f37f0e1715c11506126b568855112b8d573a
+SHA512: 8bd8da8e93f3333457909ac8fc9bafafbf1948e19fc2e3dd411aa7b5325e51597b8170f99107a5215f891f6ec0b5e3298ae2cca19e2766a806e128030f223e7c
+Description: tokei-amd64-12.1.2
+
+Package: tokei
+Architecture: arm64
+Version: 12.1.2
+Maintainer: tokei
+Filename: tokei_arm64_12.1.2.deb
+Size: 1563850
+MD5sum: c0ce1430c2b2ca4b4d8ada4f8d5e414f
+SHA1: 29396217ab43880366d8b8749d7391256d0ef231
+SHA256: a49a56dba9a41444cbc7bf0ff97549dee581b298063e35f9942dd8e2b22e35da
+SHA512: 534b4401c555bf724a04cf9bf461a641408663d054cc4eb1b18220d487e01cbc538f21d3c95f22649cead0a811c9932e07ba89efb7a7a3bec5623434edcdcfed
+Description: tokei-arm64-12.1.2
+
+Package: ubuntu-24.04-server-cloudimg-amd64-initrd-generic
+Architecture: amd64
+Version: 2026.W40
+Maintainer: ubuntu-24.04-server-cloudimg-amd64-initrd-generic
+Filename: ubuntu-24.04-server-cloudimg-amd64-initrd-generic_amd64_2026.W40.deb
+Size: 30327614
+MD5sum: a6061b3469b202e446e4a02d5f471bb9
+SHA1: b66da1370b2adbfa7f1ac47ec6c9d22755e583f2
+SHA256: a745663d481f02ebf9aa13ca0bdda1c2f573d4013e25cf3d7dea77b8567a220d
+SHA512: 1387fcfa7fa43aec2a5c9886c2fc917ee0b7c05708eb1e6e68bedbdcb6af17e5860059ea9095cbbdc61ba3575cba932455655f420a0d5ff19cc9a2d632cef009
+Description: ubuntu-24.04-server-cloudimg-amd64-initrd-generic-amd64-2026.W40
+
+Package: ubuntu-24.04-server-cloudimg-amd64-vmlinuz-generic
+Architecture: amd64
+Version: 2026.W40
+Maintainer: ubuntu-24.04-server-cloudimg-amd64-vmlinuz-generic
+Filename: ubuntu-24.04-server-cloudimg-amd64-vmlinuz-generic_amd64_2026.W40.deb
+Size: 14810254
+MD5sum: e761cc925effc225ebe6de316c6569d1
+SHA1: 7106b10f68308b9b86db860671d466cf0b505922
+SHA256: fc8e5b17d3f0c03cf5d12092949edc3d4c9bddd7e9c9a4c6f4fc0ccf6cd1ca59
+SHA512: 21ec579e6ee0352a74d40c806cef86d7c12ef4d379a6b91e0021bfac60b56cad3b41b288297681d2415da26847ed83888a6b5e763f29ceb73e0d7a664a26d3b3
+Description: ubuntu-24.04-server-cloudimg-amd64-vmlinuz-generic-amd64-2026.W40
+
+Package: ubuntu-24.04-server-cloudimg-arm64-initrd-generic
+Architecture: arm64
+Version: 2026.W40
+Maintainer: ubuntu-24.04-server-cloudimg-arm64-initrd-generic
+Filename: ubuntu-24.04-server-cloudimg-arm64-initrd-generic_arm64_2026.W40.deb
+Size: 28933376
+MD5sum: 1a327fa27ec78b273e17a0eae38a3e4f
+SHA1: 88c1bd2c8b95bc2c951e887e50bfaaeee276cfa4
+SHA256: 5713208ba4cbd530129aba938999d8d1df0829ae87db4242860e9f2d42911d05
+SHA512: e0cc99f52496753e8a124c0963b7c8d55568491f05df9e1fec49d213f5aa471c93bd174914b0185a27c5a2edbfdc0a7e1b4f9ac8ee0e1a18ced4902abccb7864
+Description: ubuntu-24.04-server-cloudimg-arm64-initrd-generic-arm64-2026.W40
+
+Package: ubuntu-24.04-server-cloudimg-arm64-vmlinuz-generic
+Architecture: arm64
+Version: 2026.W40
+Maintainer: ubuntu-24.04-server-cloudimg-arm64-vmlinuz-generic
+Filename: ubuntu-24.04-server-cloudimg-arm64-vmlinuz-generic_arm64_2026.W40.deb
+Size: 18286766
+MD5sum: ea6fe6caa8929a0d056aa711d0545420
+SHA1: 4339a497ec597ff4aec96b45348d000e1b60c777
+SHA256: 14918d758459e00eaaef36bacf7394b3f088e45f9628d50e5f87390113cda26a
+SHA512: e06dc993d73e2b9fcf45f3923e5bff421f7f51419cbed8f4541fbe338c50d219dc60b4540a23e9d0d35e4dcda05c89456ca6765fed1f198c6f54990d50d6917a
+Description: ubuntu-24.04-server-cloudimg-arm64-vmlinuz-generic-arm64-2026.W40
+
+Package: uctags
+Architecture: amd64
+Version: 2026.09.23
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: https://ctags.io/
+Bugs: https://github.com/universal-ctags/ctags/issues
+Installed-Size: 6368
+Filename: uctags_amd64_2026.09.23.deb
+Size: 1862360
+MD5sum: b3e712666f53722d73e33d5b2a2aaf17
+SHA1: 7018edacda9f81c75f6e9af8d090cb2176bb200f
+SHA256: 178b76e8fbd103c334ac21cb0a9781ed074a5bcae50eddd27d94c8d0742ea5f0
+SHA512: 001f60adc8f76bc775007cc3e7332fde3b83f5c3bd438c981f6a4f670f2a39d381493db0ea16a587e919b7891409c6ae1b417456bdfdbeac9f07c641d753502d
+Homepage: https://ctags.io/
+Description: Maintained ctags implementation
+
+Package: uctags
+Architecture: aarch64
+Version: 2026.09.23
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: https://ctags.io/
+Bugs: https://github.com/universal-ctags/ctags/issues
+Installed-Size: 6700
+Filename: uctags_arm64_2026.09.23.deb
+Size: 1873234
+MD5sum: f8c413accbe67b387f1d555c388fa488
+SHA1: 40b0cbcb1d94e5c0d30a53f32a79056321e9391a
+SHA256: 7d47cf7a6e2a02d298c61949f5dc9e7443765d915c6900f426b065dfa733bbf3
+SHA512: 9e0d6a7b640ca402f48f6280ec1168313022aeb009df8ceefc6ce5e89c69c6a4aac6d544924a589c79831cebf2ba58b9ab5e55db93f79db1e24ddbd83b73182a
+Homepage: https://ctags.io/
+Description: Maintained ctags implementation
+
+Package: versitygw
+Architecture: amd64
+Version: 1:1.8.0-1
+Priority: optional
+Section: net
+Maintainer: Ben McClelland <ben.mcclelland@versity.com>
+Installed-Size: 58640
+Filename: versitygw_amd64_1.8.0.deb
+Size: 27555056
+MD5sum: 6886ff47208fd3aef78bd5ff6340af4a
+SHA1: f2789ef15100076a676b6730d8130fe29e84c6f5
+SHA256: 26f32ed2e02c0991cc486e0c45f2acf4dc2e5738008dd48dcb615fb52b7da610
+SHA512: 21ea94648c76095d26d63abe2d06ca400faeee5f6929e6cad57347638b9800bb1ff8886991224cf5675b5ecd43a60a837b576a6e9304b66b74cde539be07d88c
+Homepage: https://github.com/versity/versitygw
+Description: The Versity S3 Gateway.
+ A high-performance tool facilitating translation between AWS S3 API
+ requests and various backend storage systems, including POSIX file
+ backend storage. Its stateless architecture enables deployment in
+ clusters for increased throughput, distributing requests across gateways
+ for optimal performance. With a focus on modularity, it supports future
+ extensions for additional backend systems.
+
+Package: versitygw
+Architecture: arm64
+Version: 1:1.8.0-1
+Priority: optional
+Section: net
+Maintainer: Ben McClelland <ben.mcclelland@versity.com>
+Installed-Size: 53262
+Filename: versitygw_arm64_1.8.0.deb
+Size: 25193992
+MD5sum: f56b655583a7537c6f818bb7edbedc6a
+SHA1: 2d034321df48e8570e3c20eb2526d2554b7f01a3
+SHA256: da695083e8f10d41d6bc5278cfc30f8d34b51b1a2e86ee466116ec0f35b360da
+SHA512: 1680d325568d2c3669bd4ec18f560745e0c9899dab577f3aa614762058e12c91d7ec21de159e53d38e694d2b45c2ceb29b6ed87958acffc983f2169a76eec9c3
+Homepage: https://github.com/versity/versitygw
+Description: The Versity S3 Gateway.
+ A high-performance tool facilitating translation between AWS S3 API
+ requests and various backend storage systems, including POSIX file
+ backend storage. Its stateless architecture enables deployment in
+ clusters for increased throughput, distributing requests across gateways
+ for optimal performance. With a focus on modularity, it supports future
+ extensions for additional backend systems.
+
+Package: watchexec-cli
+Architecture: amd64
+Version: 2.7.4-1
+Priority: optional
+Section: utility
+Maintainer: Félix Saparelli <felix@passcod.name>
+Installed-Size: 9355
+Depends: libc6, libgcc-s1
+Filename: watchexec_amd64_2.7.4.deb
+Size: 2935776
+MD5sum: afa525087d41e9d09e670bf1f3cf2045
+SHA1: f5b24c7aed0d72564720bac9b8a05a97ea7f08d3
+SHA256: dc4de7045a1fecea07a258db4eab883640b2cff84a9a0fc5fb515968a163a258
+SHA512: e6c55b942f0ea46f2d746444ce438f4e9a38f37cee7af45314cfb130a639068fa639ee45c0b5052b5e7c240da50ec2b66988a160edfad2150837d2857e638bbb
+Homepage: https://watchexec.github.io
+Description: Executes commands in response to file modifications
+ # Watchexec CLI
+ .
+ A simple standalone tool that watches a path and runs a command whenever it
+ detects modifications.
+ .
+ Example use cases:
+ .
+ * Automatically run unit tests
+ * Run linters/syntax checkers
+ .
+ ## Features
+ .
+ * Simple invocation and use
+ * Runs on Linux, Mac, Windows, and more
+ * Monitors current directory and all subdirectories for changes
+     * Uses efficient event polling mechanism (on Linux, Mac, Windows, BSD)
+ * Coalesces multiple filesystem events into one, for editors that use
+ swap/backup files during saving
+ * By default, uses `.gitignore`, `.ignore`, and other such files to determine
+ which files to ignore notifications for
+ * Support for watching files with a specific extension
+ * Support for filtering/ignoring events based on [glob
+ patterns](https://docs.rs/globset/*/globset/#syntax)
+ * Launches the command in a new process group (can be disabled with
+ `--no-process-group`)
+ * Optionally clears screen between executions
+ * Optionally restarts the command with every modification (good for servers)
+ * Optionally sends a desktop notification on command start and end
+ * Does not require a language runtime
+ * With `--emit-events-to=environment`, sets the following environment variables
+ in the process:
+ .
+     `$WATCHEXEC_COMMON_PATH` is set to the longest common path of all of the
+ below variables, and so should be prepended to each path to obtain the
+ full/real path.
+ .
+     | Variable name | Event kind |
+     |---|---|
+     | `$WATCHEXEC_CREATED_PATH` | files/folders were created |
+     | `$WATCHEXEC_REMOVED_PATH` | files/folders were removed |
+     | `$WATCHEXEC_RENAMED_PATH` | files/folders were renamed |
+     | `$WATCHEXEC_WRITTEN_PATH` | files/folders were modified |
+     | `$WATCHEXEC_META_CHANGED_PATH` | files/folders' metadata were modified |
+     | `$WATCHEXEC_OTHERWISE_CHANGED_PATH` | every other kind of event |
+ .
+     These variables may contain multiple paths: these are separated by the
+ platform's path separator, as with the `PATH` system environment variable. On
+ Unix that is `:`, and on Windows `;`. Within each variable, paths are
+ deduplicated and sorted in binary order (i.e. neither Unicode nor locale
+ aware).
+ .
+     Event emission is disabled by default (`--emit-events-to=none`). Use
+ `--emit-events-to=json-stdio` to send JSON events to the command's standard
+ input instead.
+ .
+ ## Anti-Features
+ .
+ * Not tied to any particular language or ecosystem
+ * Not tied to Git or the presence of a repository/project
+ * Does not require a cryptic command line involving `xargs`
+ .
+ ## Usage Examples
+ .
+ Watch all JavaScript, CSS and HTML files in the current directory and all
+ subdirectories for changes, running `make` when a change is detected:
+ .
+     $ watchexec --exts js,css,html make
+ .
+ Call `make test` when any file changes in this directory/subdirectory, except
+ for everything below `target`:
+ .
+     $ watchexec -i "target/**" make test
+ .
+ Call `ls -la` when any file changes in this directory/subdirectory:
+ .
+     $ watchexec -- ls -la
+ .
+ Call/restart `python server.py` when any Python file in the current directory
+ (and all subdirectories) changes:
+ .
+     $ watchexec -e py -r python server.py
+ .
+ Call/restart `my_server` when any file in the current directory (and all
+ subdirectories) changes, sending `SIGKILL` to stop the command:
+ .
+     $ watchexec -r --stop-signal SIGKILL my_server
+ .
+ Send a SIGHUP to the command upon changes (Note: using `-n` here we're
+ executing `my_server` directly, instead of wrapping it in a shell:
+ .
+     $ watchexec -n --signal SIGHUP my_server
+ .
+ Run `make` when any file changes, using the `.gitignore` file in the current
+ directory to filter:
+ .
+     $ watchexec make
+ .
+ Run `make` when any file in `lib` or `src` changes:
+ .
+     $ watchexec -w lib -w src make
+ .
+ Run `bundle install` when the `Gemfile` changes:
+ .
+     $ watchexec -w Gemfile bundle install
+ .
+ Run two commands:
+ .
+     $ watchexec 'date; make'
+ .
+ Get desktop ("toast") notifications when the command starts and finishes:
+ .
+     $ watchexec -N go build
+ .
+ Only run when files are created:
+ .
+     $ watchexec --fs-events create -- s3 sync . s3://my-bucket
+ .
+ If you come from `entr`, note that the watchexec command is run in a shell by
+ default. You can use `-n` or `--shell=none` to not do that:
+ .
+     $ watchexec -n -- echo ';' lorem ipsum
+ .
+ On Windows, you may prefer to use Powershell:
+ .
+     $ watchexec --shell=pwsh -- Test-Connection example.com
+ .
+ You can eschew running commands entirely and get a stream of events to process
+ on your own:
+ .
+ ```console
+ $ watchexec --emit-events-to=json-stdio --only-emit-events
+ .
+ {"tags":[{"kind":"source","source":"filesystem"},{"kind":"fs","simple":"modify","full":"Modify(Data(Any))"},{"kind":"path","absolute":"/home/code/rust/watchexec/crates/cli/README.md","filetype":"file"}]}
+ {"tags":[{"kind":"source","source":"filesystem"},{"kind":"fs","simple":"modify","full":"Modify(Data(Any))"},{"kind":"path","absolute":"/home/code/rust/watchexec/crates/lib/Cargo.toml","filetype":"file"}]}
+ {"tags":[{"kind":"source","source":"filesystem"},{"kind":"fs","simple":"modify","full":"Modify(Data(Any))"},{"kind":"path","absolute":"/home/code/rust/watchexec/crates/cli/src/args.rs","filetype":"file"}]}
+ ```
+ .
+ Print the time commands take to run:
+ .
+ ```console
+ $ watchexec --timings -- make
+ [Running: make]
+ ...
+ [Command was successful, lasted 52.748081074s]
+ ```
+ .
+ ## Installation
+ .
+ ### Package manager
+ .
+ Watchexec is in many package managers. A full list of [known
+ packages](../../doc/packages.md) is available,
+ and there may be more out there! Please contribute any you find to the list :)
+ .
+ Common package managers:
+ .
+ - Alpine: `$ apk add watchexec`
+ - ArchLinux: `$ pacman -S watchexec`
+ - Nix: `$ nix-shell -p watchexec`
+ - Debian/Ubuntu via [apt.cli.rs](https://apt.cli.rs): `$ apt install watchexec`
+ - Homebrew on Mac:  `$ brew install watchexec`
+ - Chocolatey on Windows: `#> choco install watchexec`
+ .
+ ### [Binstall](https://github.com/cargo-bins/cargo-binstall)
+ .
+     $ cargo binstall watchexec-cli
+ .
+ ### Pre-built binaries
+ .
+ Use the download section on
+ [Github](https://github.com/watchexec/watchexec/releases/latest)
+ or [the website](https://watchexec.github.io/downloads/) to obtain the package
+ appropriate for your
+ platform and architecture, extract it, and place it in your `PATH`.
+ .
+ There are also Debian/Ubuntu (DEB) and Fedora/RedHat (RPM) packages.
+ .
+ Checksums and signatures are available.
+ .
+ ### Cargo (from source)
+ .
+ Only the latest Rust stable is supported, but older versions may work.
+ .
+     $ cargo install watchexec-cli
+ .
+ ## Shell completions
+ .
+ Currently available shell completions:
+ .
+ - bash: `completions/bash` should be installed to
+ `/usr/share/bash-completion/completions/watchexec`
+ - elvish: `completions/elvish` should be installed to
+ `$XDG_CONFIG_HOME/elvish/completions/`
+ - fish: `completions/fish` should be installed to
+ `/usr/share/fish/vendor_completions.d/watchexec.fish`
+ - nu: `completions/nu` should be installed to
+ `$XDG_CONFIG_HOME/nu/completions/`
+ - powershell: `completions/powershell` should be installed to `$PROFILE/`
+ - zsh: `completions/zsh` should be installed to
+ `/usr/share/zsh/site-functions/_watchexec`
+ .
+ If not bundled, you can generate completions for your shell with `watchexec
+ --completions <shell>`.
+ .
+ ## Manual
+ .
+ There's a manual page at `doc/watchexec.1`. Install it to
+ `/usr/share/man/man1/`.
+ If not bundled, you can generate a manual page with `watchexec --manual >
+ /path/to/watchexec.1`, or view it inline with `watchexec --manual` (requires
+ `man`).
+ .
+ You can also [read a text version](../../doc/watchexec.1.md).
+ .
+ Note that it is automatically generated from the help text, so it is not as
+ pretty as a carefully hand-written one.
+ .
+ ## Advanced builds
+ .
+ These are additional options available with custom builds by setting features:
+ .
+ ### PID1
+ .
+ If you're using Watchexec as PID1 (most frequently in containers or
+ namespaces), and it's not doing what you expect, you can create a build with
+ PID1 early logging: `--features pid1-withlog`.
+ .
+ If you don't need PID1 support, or if you're doing something that conflicts
+ with this program's PID1 support, you can disable it with
+ `--no-default-features`.
+ .
+ ### Eyra
+ .
+ [Eyra](https://github.com/sunfishcode/eyra) is a system to build Linux programs
+ with no dependency on C code (in the libc path). To build Watchexec like this,
+ use `--features eyra` and a Nightly compiler.
+ .
+ This feature also lets you get early logging into program startup, with
+ `RUST_LOG=trace`.
+
+Package: watchexec-cli
+Architecture: arm64
+Version: 2.7.4-1
+Priority: optional
+Section: utility
+Maintainer: Félix Saparelli <felix@passcod.name>
+Installed-Size: 8333
+Depends: libc6, libgcc-s1
+Filename: watchexec_arm64_2.7.4.deb
+Size: 2528432
+MD5sum: 859d35d046ca644cf7c422cc905a60f6
+SHA1: 444cffb468e046b772800bf3f1d75630a0402f11
+SHA256: 8baa292d26468920f7f652870225c0099f5c2e68ba908425d2dccdadabb1b0b8
+SHA512: 5d61d5b3e60cfce420bf51d7749c816f7f46c7733d1d8cbea542d892ccfe4daae37986d684def69535bf2f1fc46405f63ca5381b9866c9d7b187502b794db9d4
+Homepage: https://watchexec.github.io
+Description: Executes commands in response to file modifications
+ # Watchexec CLI
+ .
+ A simple standalone tool that watches a path and runs a command whenever it
+ detects modifications.
+ .
+ Example use cases:
+ .
+ * Automatically run unit tests
+ * Run linters/syntax checkers
+ .
+ ## Features
+ .
+ * Simple invocation and use
+ * Runs on Linux, Mac, Windows, and more
+ * Monitors current directory and all subdirectories for changes
+     * Uses efficient event polling mechanism (on Linux, Mac, Windows, BSD)
+ * Coalesces multiple filesystem events into one, for editors that use
+ swap/backup files during saving
+ * By default, uses `.gitignore`, `.ignore`, and other such files to determine
+ which files to ignore notifications for
+ * Support for watching files with a specific extension
+ * Support for filtering/ignoring events based on [glob
+ patterns](https://docs.rs/globset/*/globset/#syntax)
+ * Launches the command in a new process group (can be disabled with
+ `--no-process-group`)
+ * Optionally clears screen between executions
+ * Optionally restarts the command with every modification (good for servers)
+ * Optionally sends a desktop notification on command start and end
+ * Does not require a language runtime
+ * With `--emit-events-to=environment`, sets the following environment variables
+ in the process:
+ .
+     `$WATCHEXEC_COMMON_PATH` is set to the longest common path of all of the
+ below variables, and so should be prepended to each path to obtain the
+ full/real path.
+ .
+     | Variable name | Event kind |
+     |---|---|
+     | `$WATCHEXEC_CREATED_PATH` | files/folders were created |
+     | `$WATCHEXEC_REMOVED_PATH` | files/folders were removed |
+     | `$WATCHEXEC_RENAMED_PATH` | files/folders were renamed |
+     | `$WATCHEXEC_WRITTEN_PATH` | files/folders were modified |
+     | `$WATCHEXEC_META_CHANGED_PATH` | files/folders' metadata were modified |
+     | `$WATCHEXEC_OTHERWISE_CHANGED_PATH` | every other kind of event |
+ .
+     These variables may contain multiple paths: these are separated by the
+ platform's path separator, as with the `PATH` system environment variable. On
+ Unix that is `:`, and on Windows `;`. Within each variable, paths are
+ deduplicated and sorted in binary order (i.e. neither Unicode nor locale
+ aware).
+ .
+     Event emission is disabled by default (`--emit-events-to=none`). Use
+ `--emit-events-to=json-stdio` to send JSON events to the command's standard
+ input instead.
+ .
+ ## Anti-Features
+ .
+ * Not tied to any particular language or ecosystem
+ * Not tied to Git or the presence of a repository/project
+ * Does not require a cryptic command line involving `xargs`
+ .
+ ## Usage Examples
+ .
+ Watch all JavaScript, CSS and HTML files in the current directory and all
+ subdirectories for changes, running `make` when a change is detected:
+ .
+     $ watchexec --exts js,css,html make
+ .
+ Call `make test` when any file changes in this directory/subdirectory, except
+ for everything below `target`:
+ .
+     $ watchexec -i "target/**" make test
+ .
+ Call `ls -la` when any file changes in this directory/subdirectory:
+ .
+     $ watchexec -- ls -la
+ .
+ Call/restart `python server.py` when any Python file in the current directory
+ (and all subdirectories) changes:
+ .
+     $ watchexec -e py -r python server.py
+ .
+ Call/restart `my_server` when any file in the current directory (and all
+ subdirectories) changes, sending `SIGKILL` to stop the command:
+ .
+     $ watchexec -r --stop-signal SIGKILL my_server
+ .
+ Send a SIGHUP to the command upon changes (Note: using `-n` here we're
+ executing `my_server` directly, instead of wrapping it in a shell:
+ .
+     $ watchexec -n --signal SIGHUP my_server
+ .
+ Run `make` when any file changes, using the `.gitignore` file in the current
+ directory to filter:
+ .
+     $ watchexec make
+ .
+ Run `make` when any file in `lib` or `src` changes:
+ .
+     $ watchexec -w lib -w src make
+ .
+ Run `bundle install` when the `Gemfile` changes:
+ .
+     $ watchexec -w Gemfile bundle install
+ .
+ Run two commands:
+ .
+     $ watchexec 'date; make'
+ .
+ Get desktop ("toast") notifications when the command starts and finishes:
+ .
+     $ watchexec -N go build
+ .
+ Only run when files are created:
+ .
+     $ watchexec --fs-events create -- s3 sync . s3://my-bucket
+ .
+ If you come from `entr`, note that the watchexec command is run in a shell by
+ default. You can use `-n` or `--shell=none` to not do that:
+ .
+     $ watchexec -n -- echo ';' lorem ipsum
+ .
+ On Windows, you may prefer to use Powershell:
+ .
+     $ watchexec --shell=pwsh -- Test-Connection example.com
+ .
+ You can eschew running commands entirely and get a stream of events to process
+ on your own:
+ .
+ ```console
+ $ watchexec --emit-events-to=json-stdio --only-emit-events
+ .
+ {"tags":[{"kind":"source","source":"filesystem"},{"kind":"fs","simple":"modify","full":"Modify(Data(Any))"},{"kind":"path","absolute":"/home/code/rust/watchexec/crates/cli/README.md","filetype":"file"}]}
+ {"tags":[{"kind":"source","source":"filesystem"},{"kind":"fs","simple":"modify","full":"Modify(Data(Any))"},{"kind":"path","absolute":"/home/code/rust/watchexec/crates/lib/Cargo.toml","filetype":"file"}]}
+ {"tags":[{"kind":"source","source":"filesystem"},{"kind":"fs","simple":"modify","full":"Modify(Data(Any))"},{"kind":"path","absolute":"/home/code/rust/watchexec/crates/cli/src/args.rs","filetype":"file"}]}
+ ```
+ .
+ Print the time commands take to run:
+ .
+ ```console
+ $ watchexec --timings -- make
+ [Running: make]
+ ...
+ [Command was successful, lasted 52.748081074s]
+ ```
+ .
+ ## Installation
+ .
+ ### Package manager
+ .
+ Watchexec is in many package managers. A full list of [known
+ packages](../../doc/packages.md) is available,
+ and there may be more out there! Please contribute any you find to the list :)
+ .
+ Common package managers:
+ .
+ - Alpine: `$ apk add watchexec`
+ - ArchLinux: `$ pacman -S watchexec`
+ - Nix: `$ nix-shell -p watchexec`
+ - Debian/Ubuntu via [apt.cli.rs](https://apt.cli.rs): `$ apt install watchexec`
+ - Homebrew on Mac:  `$ brew install watchexec`
+ - Chocolatey on Windows: `#> choco install watchexec`
+ .
+ ### [Binstall](https://github.com/cargo-bins/cargo-binstall)
+ .
+     $ cargo binstall watchexec-cli
+ .
+ ### Pre-built binaries
+ .
+ Use the download section on
+ [Github](https://github.com/watchexec/watchexec/releases/latest)
+ or [the website](https://watchexec.github.io/downloads/) to obtain the package
+ appropriate for your
+ platform and architecture, extract it, and place it in your `PATH`.
+ .
+ There are also Debian/Ubuntu (DEB) and Fedora/RedHat (RPM) packages.
+ .
+ Checksums and signatures are available.
+ .
+ ### Cargo (from source)
+ .
+ Only the latest Rust stable is supported, but older versions may work.
+ .
+     $ cargo install watchexec-cli
+ .
+ ## Shell completions
+ .
+ Currently available shell completions:
+ .
+ - bash: `completions/bash` should be installed to
+ `/usr/share/bash-completion/completions/watchexec`
+ - elvish: `completions/elvish` should be installed to
+ `$XDG_CONFIG_HOME/elvish/completions/`
+ - fish: `completions/fish` should be installed to
+ `/usr/share/fish/vendor_completions.d/watchexec.fish`
+ - nu: `completions/nu` should be installed to
+ `$XDG_CONFIG_HOME/nu/completions/`
+ - powershell: `completions/powershell` should be installed to `$PROFILE/`
+ - zsh: `completions/zsh` should be installed to
+ `/usr/share/zsh/site-functions/_watchexec`
+ .
+ If not bundled, you can generate completions for your shell with `watchexec
+ --completions <shell>`.
+ .
+ ## Manual
+ .
+ There's a manual page at `doc/watchexec.1`. Install it to
+ `/usr/share/man/man1/`.
+ If not bundled, you can generate a manual page with `watchexec --manual >
+ /path/to/watchexec.1`, or view it inline with `watchexec --manual` (requires
+ `man`).
+ .
+ You can also [read a text version](../../doc/watchexec.1.md).
+ .
+ Note that it is automatically generated from the help text, so it is not as
+ pretty as a carefully hand-written one.
+ .
+ ## Advanced builds
+ .
+ These are additional options available with custom builds by setting features:
+ .
+ ### PID1
+ .
+ If you're using Watchexec as PID1 (most frequently in containers or
+ namespaces), and it's not doing what you expect, you can create a build with
+ PID1 early logging: `--features pid1-withlog`.
+ .
+ If you don't need PID1 support, or if you're doing something that conflicts
+ with this program's PID1 support, you can disable it with
+ `--no-default-features`.
+ .
+ ### Eyra
+ .
+ [Eyra](https://github.com/sunfishcode/eyra) is a system to build Linux programs
+ with no dependency on C code (in the libc path). To build Watchexec like this,
+ use `--features eyra` and a Nightly compiler.
+ .
+ This feature also lets you get early logging into program startup, with
+ `RUST_LOG=trace`.
+
+Package: xray-dat
+Architecture: all
+Version: 26.3.27
+Maintainer: xray-dat
+Depends: xray
+Filename: xray-dat_all_26.3.27.deb
+Size: 5305264
+MD5sum: f6bf1a0fa2ef07cd1cf2542bf2e86536
+SHA1: a32dfd4f9cec1f1498a68719d436f59431ceaee0
+SHA256: 50364efcf29cfd90eff565be3d6f75ce9fd8aa21cb48b8ae048269e7d467dc69
+SHA512: 9b48a12fdac54e8e0f8edd888f5c69a600d2a1939dc71ab376b20941ff4be6ddfd4e0002510725498f01889e20feb1374b29ddbcf89ab3b0bbbae0dd20f9463b
+Description: xray-dat-all-26.3.27
+
+Package: xray
+Architecture: amd64
+Version: 26.3.27
+Maintainer: xray
+Filename: xray_amd64_26.3.27.deb
+Size: 10817436
+MD5sum: f20a16339e109b9599eff49099edf64f
+SHA1: c7da0db2bd0fe3dbc06a9756e9ebc72ee4684dee
+SHA256: b78a082df4d53476517165c319b50b9d13d9a33b11a639ce65603454fce5bc28
+SHA512: d2227c9b9a7e1efb7eebed50caa34599bebd3b33229e3bd8fbc4a1495823f230f5f015bf391e247bda82138ee6881a1e2b51b5cad07d32267e2918e611adb1eb
+Description: xray-amd64-26.3.27
+
+Package: xray
+Architecture: arm64
+Version: 26.3.27
+Maintainer: xray
+Filename: xray_arm64_26.3.27.deb
+Size: 9507998
+MD5sum: 4f5bda7000a42bd646607048c1cff57a
+SHA1: 50982b0e35f599be29ac5ef491e18e47375c5384
+SHA256: 15c20714faad663544f837bc2c98c377eb9678a462f98e3b823eb469ceeb6f0f
+SHA512: d4d69ec3c41e452267e1f2344de2d5d81b5ed6d71bdc8cffd64e12bf79dcc69ccac335d76555dd3bb608a145e2835a50c293ba2e0b741507d4c63016a632e530
+Description: xray-arm64-26.3.27
+
+Package: xsv
+Architecture: amd64
+Version: 0.13.0
+Maintainer: xsv
+Filename: xsv_amd64_0.13.0.deb
+Size: 5515678
+MD5sum: 25a157e00b2d118b3824ec66d2605cb8
+SHA1: 709e0a7b8466326b5ba36d1ab0fecfa9b63d37dc
+SHA256: 75c74bc12c6024b941560fc5d515a2abed9aeb74553a9f03748c2b150a92d087
+SHA512: 7973d0d01d47790594c4a655ad71f171c7ec2fe069e4f43ce493424ad101c494187d309eb72a9338e03eb5be987aeab18304b9316ed72d1a1d68f61d15bd67e4
+Description: xsv-amd64-0.13.0
+
+Package: yazi
+Architecture: amd64
+Version: 26.9.1
+Maintainer: yazi
+Filename: yazi_amd64_26.9.1.deb
+Size: 7990008
+MD5sum: 4ccc469ae77274cfc92085967e4c7be1
+SHA1: 499f3c578a23338ef6507a8258105cc4a8b58276
+SHA256: cfe559766ee9e376b28d6c09a6c4f8a89c8f23db19174e210a03f821eecc23b7
+SHA512: b38868ef11c3c008f8a4ea438ffe2582f7c4593d3d315bd79154c4ea379d5e7b2555bc25bbcca6c88f973c6c783a6c9efd2590452f7f5c1da8495d8bda09edf9
+Description: yazi-amd64-26.9.1
+
+Package: yazi
+Architecture: arm64
+Version: 26.9.1
+Maintainer: yazi
+Filename: yazi_arm64_26.9.1.deb
+Size: 7751222
+MD5sum: b858f5ef1f2761bd4f70bce8fd849a35
+SHA1: 50bf941ddb59a1a8f98e52e2b2be490963b0be7f
+SHA256: 5ea895655ac8a8d6063d0fbf1330932a9af5057df00fdfa3db1c1652fc0ce88d
+SHA512: 8ed8b9134999c090c0885a9cf91e0c178f7f8c12e90eeeb3801179cdd689aa5d2064d606dca89c7916f5250d3ad86a901690031bd4cbb7d8e2bcb5f354167f03
+Description: yazi-arm64-26.9.1
+
+Package: yq
+Architecture: amd64
+Version: 4.54.1
+Maintainer: yq
+Filename: yq_amd64_4.54.1.deb
+Size: 4756852
+MD5sum: fec8443ada7df6fd76ba21b4cda9e15d
+SHA1: a3b835b0eaebfe33dd86cbb709815d5580517037
+SHA256: 8ef50906a9f766a4cbd9c205082cd11d643a3ea95577580c7710dbf371ab6478
+SHA512: 5931f3017602020f88ab0ae81142109d7f765a992e4dc13a2bce0796e3f68e159d6458a255f147a847130715f5461362b7b71fca5fcd231c43a67ab4df2ecfe7
+Description: yq-amd64-4.54.1
+
+Package: yq
+Architecture: arm64
+Version: 4.54.1
+Maintainer: yq
+Filename: yq_arm64_4.54.1.deb
+Size: 4218790
+MD5sum: 86a955a80fbfbcfca8a93e756460c7d8
+SHA1: a74bd574160f5df67b876eb6a8904d9e947e6b54
+SHA256: 87f16bf623cbb115575bdfd4f46da73dcd308c8af2a9d8328c05826c3d7ce17a
+SHA512: d97d9a8b7347c2017ec760dce5dfe007ead9cddf716804740ba940e796696819c500f5636cf081d10eab0af4edd3a529592c0016a53ade7ab94fa6055ee1ad69
+Description: yq-arm64-4.54.1
+
+Package: yt-dlp
+Architecture: amd64
+Version: 2026.08.19
+Maintainer: yt-dlp
+Filename: yt-dlp_amd64_2026.08.19.deb
+Size: 39794556
+MD5sum: 38e98e526d28bbf2e015a0ae67080315
+SHA1: 8469f7af448174ac31ef6235706afda7443a1631
+SHA256: 2cc8ee222269598afcfee416581c54e8f6aebd92d32565cc92422a70736a2449
+SHA512: 29d31e0a24165241c9fe84a5cd68c751cc6e9757e91a9a03bcb4e2171ad5ba7a6d6d841e14bbee29c16000f952b2a4f3f7cc6b62a73c0342dd2133829827ac5c
+Description: yt-dlp-amd64-2026.08.19
+
+Package: yt-dlp
+Architecture: arm64
+Version: 2026.08.19
+Maintainer: yt-dlp
+Filename: yt-dlp_arm64_2026.08.19.deb
+Size: 39794566
+MD5sum: 02bb119720a13390ee8cbd0a4b32fda7
+SHA1: 9a9872968a10f9b1bea43e8b5ca562ef70802454
+SHA256: 2546e0792559872151347c1bd81214a35726c26131f5a85c0486c16e1ca547b4
+SHA512: 4d657d918a32b1edaddda12405f9dd0fcb03d63f021e8ae70d787f9f91929e8e584b9ecf87fc1a0843b4829a30908c36ce72e0422943c2b3c877ec9311515e52
+Description: yt-dlp-arm64-2026.08.19
+
+Package: z-push
+Architecture: all
+Version: 2.7.6
+Maintainer: z-push
+Depends: php, php-cli, php-soap, php-mbstring, php-imap
+Filename: z-push_all_2.7.6.deb
+Size: 511462
+MD5sum: 2dfbe910b83f48f123dea3caf049cd25
+SHA1: 391bdcf23e2d6d9d3993090d6f3ea518aa5f5291
+SHA256: f3a2dbe41ff7fe7f7e48321d04d37174ca75f1fc49f82bae8ef8d485555bb9cb
+SHA512: 1885eb6e4dbd08ed635aa263dd3457ef6d3b3bd2b68ee28d2e81383bd1746bdff242e452df7e1c88587ad4571065437b090eefce4e57ee3812eb04d6fdb0721b
+Description: z-push-all-2.7.6
+
+Package: zellij
+Architecture: amd64
+Version: 0.45.1
+Maintainer: zellij
+Filename: zellij_amd64_0.45.1.deb
+Size: 11473322
+MD5sum: ad9b4e195233db6e467d58c055c04bde
+SHA1: 8a8b5273988f8737ea598a303a9fafc3b06ac73c
+SHA256: cc6bdb9c13402bb667a341bf1ee65115a25c169dc263790aa8ff71f044de3f20
+SHA512: bc2688f6959ca6ddd57812e8e3b295cd2dd2b0e5cc287a23141b2243862b11a84d89358c65735d84b87ddf6929a1d9ebaa6892a891266a052ed843585bfb7563
+Description: zellij-amd64-0.45.1
+
+Package: zellij
+Architecture: arm64
+Version: 0.45.1
+Maintainer: zellij
+Filename: zellij_arm64_0.45.1.deb
+Size: 11309344
+MD5sum: 136586d5305c5bbc10767c85d14e896d
+SHA1: 083002b7804569d51b893b659d484b2fed32c19d
+SHA256: 57248fe3aaa7bf762b9d8a08b0326fd7978ee65d12eefcf9448e43753912bf6e
+SHA512: b1c3dd9687ecdc6f01e43e4d6ad425880da8e3274760027a496793da9c5d59376938987bf052f48d8aada943e91978369d3799bb2ca7b9c86e57efd7d3e60753
+Description: zellij-arm64-0.45.1
+
